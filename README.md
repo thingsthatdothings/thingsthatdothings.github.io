@@ -97,3 +97,5 @@ link to a post in Markdown as follows:
 5. Setup Formbricks account
 
 6. Setup Google Ads
+
+7. Add feed link in menu: feed at /feed.xml

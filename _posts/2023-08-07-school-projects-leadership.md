@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Student Project and Leadership Experience"
+title:  "Student Projects and Leadership Experience"
 categories: [ school ]
 image: assets/images/4.jpg
 ---
