@@ -9,7 +9,7 @@ Got plans this weekend?
 
 ## Weekly updates
 
-- **[calgaryschild.com](https://www.calgaryschild.com//)**
+- **[calgaryschild.com](https://www.calgaryschild.com/)**
     - click on the "What's Up This Week?" link
 - **[calgary.ctvnews.ca](https://calgary.ctvnews.ca/)**
     - click on the "weekend events" link

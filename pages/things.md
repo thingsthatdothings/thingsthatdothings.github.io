@@ -5,7 +5,11 @@ permalink: "/things/"
 image: assets/images/5.jpg
 ---
 
-[Deals]({% link pages/categories.html %})
+<!-- [Deals]({% link pages/categories.html %}) -->
+
+<h2 id="deals">
+    <a href="{{ site.baseurl }}/categories#deals">Deals</a>
+</h2>
 
 1. [RFD]({% post_url 2023-01-01-RFD %})
     - Canadian forum of hot deals
@@ -37,7 +41,10 @@ image: assets/images/5.jpg
     - PC, Scene, Ikea, Co-op, McDonald's, New York Fries, etc.
 
 
-## School
+<h2 id="school">
+    <a href="{{ site.baseurl }}/categories#school">School</a>
+</h2>
+
 
 1. [Resources]({% post_url 2023-07-28-school-resources %})
     - calendars
@@ -56,7 +63,9 @@ image: assets/images/5.jpg
     - at school, after school, summer, hackathons, volunteering
 
 
-## Calgary
+<h2 id="calgary">
+    <a href="{{ site.baseurl }}/categories#calgary">Calgary</a>
+</h2>
 
 1. [Library]({% post_url 2023-08-28-library %})
     - freemium printing, book a room, movies, courses, Libby, Rosetta Stone, etc.
@@ -73,20 +82,8 @@ image: assets/images/5.jpg
 5. [Stuff to do in Calgary]({% post_url 2023-09-07-calgary-stuff-to-do %})
     - weekly events
 
-6. Kids
-    - Home Depot builds
-    - Toys R Us make and take events
-    - Ikea playland
-    - Framers Market play area
-    - Dtn Devonian Gardens play area
-    - Dtn Central Library Play Area
-    - YMCA Grade 6 membership
-        - https://www.ymcacalgary.org/calgary-flames-grade-6-ymca-membership
-    - Kids eat free
-        - https://www.familyfuncanada.com/calgary/kids-eat-free/
-    - All sports one day
-        - https://sportcalgary.ca/all-sport-one-day
-
+6. [Kids]({% post_url 2023-09-14-kids %})
+    - make and takes, play areas, etc.
 
 7. Stampede
     - breakfasts
@@ -106,25 +103,52 @@ image: assets/images/5.jpg
     - Library
 
 11. Community Garage Sales
+    - https://www.familyfuncanada.com/calgary/garage-sales-on-parade/
 
-<!-- ## Finance -->
+12. Hikes in or near Calgary
+    - https://travelwiththesmile.com/blog/day-hikes-near-calgary/
+    - https://dailyhive.com/calgary/hiking-trails-hour-from-calgary-2017
+    - https://www.alltrails.com/canada/alberta/calgary 
 
-<!-- ## Programming -->
 
-## Other
+<h2 id="other">
+    <a href="{{ site.baseurl }}/categories#other">Other</a>
+</h2>
 
-1. Contests and Lotteries
+1. [Contests and Lotteries]({% post_url 2023-04-07-contests %})
 2. Music
-    - Youtube music via Firefox focus browser
-    - Nonoki
+    - https://music.youtube.com/
+        - no ads using Firefox focus browser
+    - https://nonoki.com/
 3. Grocery Store Perimeter
+    - look for clearance in deli, dairy, meats, bakery sections first
 4. DIY Air Purifier
+    - https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box
 5. Therapy
+    - can't afford or would never go? google it instead:
+    - https://www.wondermind.com/article/therapy-techniques/
+    - https://www.teenvogue.com/story/best-therapist-advice
 6. Cool Sites
+    - https://www.nytimes.com/games/wordle/index.html
+    - https://www.nytimes.com/games/connections
+    - https://www.youtube.com/@TEDEd
+    - https://www.youtube.com/watch?v=R1vskiVDwl4 (Celeste Headlee: 10 ways to have a better conversation | TED)
+    - https://www.ted.com/series/the_way_we_work (TED - The Way We Work series)
 7. McDonald's survey
+    - always do the survey on the back of the receipt to get a coupon discount for the next purchase
 8. Temp Emails
     - https://www.mailmodo.com/guides/temporary-email-address/
-9. Hikes
+
+9. FIRE
+    - https://en.wikipedia.org/wiki/FIRE_movement
+    - https://milliondollarjourney.com/
+10. Programming
+    - Github site hosting (Github pages) https://pages.github.com/
+11. Exercise
+    - https://www.youtube.com/@ymcahome
+    - https://www.youtube.com/@Niketrainingclub.
+
+
 
 
 
