@@ -19,6 +19,7 @@ Weigh email/text spam with potential store membership perks.
     - extra time in SamllLand
 5. **[McDonald's](https://www.mcdonalds.com/ca/en-ca/getmoremcds/mymcdonaldsrewards.html)**
     - sometimes has free with purchase offers in their app
+    - do the survey on the back of the receipt to get a coupon discount for the next purchase
 6. **[A&W](https://web.aw.ca/en/order)**
     - sometimes has free with purchase offers in their app
 6. **[New York Fries](https://frysociety.newyorkfries.com/Wrap?vnPath=%2f)**

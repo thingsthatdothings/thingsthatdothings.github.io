@@ -85,30 +85,22 @@ image: assets/images/5.jpg
 6. [Kids]({% post_url 2023-09-14-kids %})
     - make and takes, play areas, etc.
 
-7. Stampede
-    - breakfasts
-    - value days on the grounds
-    - bring your own food - sit in air conditioning
-    - bathrooms
+7. [Stampede]({% post_url 2023-12-22-stampde %})
+    - plan for free pancakes and entry to the grounds
 
-8. Winter
-    - SouthCentre Santa, Gingerbread making (kids)
-    - Spruce Meadows Lights
+8. [311]({% post_url 2023-12-22-stampde %})
+    - report issues to The City anonymously
 
-9. 311
-    - https://calgary.spotreporters.com/ 
+9. [House Prices]({% post_url 2023-12-22-house-prices %})
 
-10. Volunteering
-    - YMCA
-    - Library
+10. [Garbage Day]({% post_url 2023-12-22-garbage-day %})
 
-11. Community Garage Sales
-    - https://www.familyfuncanada.com/calgary/garage-sales-on-parade/
+11. [Calgary Traffic and Road Conditions, Traffic Cameras]({% post_url 2023-12-22-traffic-roads %})
 
-12. Hikes in or near Calgary
-    - https://travelwiththesmile.com/blog/day-hikes-near-calgary/
-    - https://dailyhive.com/calgary/hiking-trails-hour-from-calgary-2017
-    - https://www.alltrails.com/canada/alberta/calgary 
+12. [Community Garage Sales]({% post_url 2023-12-23-garage-sales %})
+
+13. [Hikes in or near Calgary]({% post_url 2023-12-23-hikes %})
+
 
 
 <h2 id="other">
@@ -116,39 +108,17 @@ image: assets/images/5.jpg
 </h2>
 
 1. [Contests and Lotteries]({% post_url 2023-04-07-contests %})
-2. Music
-    - https://music.youtube.com/
-        - no ads using Firefox focus browser
-    - https://nonoki.com/
-3. Grocery Store Perimeter
-    - look for clearance in deli, dairy, meats, bakery sections first
-4. DIY Air Purifier
-    - https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box
-5. Therapy
-    - can't afford or would never go? google it instead:
-    - https://www.wondermind.com/article/therapy-techniques/
-    - https://www.teenvogue.com/story/best-therapist-advice
-6. Cool Sites
-    - https://www.nytimes.com/games/wordle/index.html
-    - https://www.nytimes.com/games/connections
-    - https://www.youtube.com/@TEDEd
-    - https://www.youtube.com/watch?v=R1vskiVDwl4 (Celeste Headlee: 10 ways to have a better conversation | TED)
-    - https://www.ted.com/series/the_way_we_work (TED - The Way We Work series)
-7. McDonald's survey
-    - always do the survey on the back of the receipt to get a coupon discount for the next purchase
-8. Temp Emails
-    - https://www.mailmodo.com/guides/temporary-email-address/
-
-9. FIRE
-    - https://en.wikipedia.org/wiki/FIRE_movement
-    - https://milliondollarjourney.com/
-10. Programming
-    - Github site hosting (Github pages) https://pages.github.com/
-11. Exercise
-    - https://www.youtube.com/@ymcahome
-    - https://www.youtube.com/@Niketrainingclub.
-
-
-
+2. [Streaming Music]({% post_url 2023-09-28-streaming-music %})
+3. [Grocery Store Clearance]({% post_url 2023-10-07-grocery-store-clearance %})
+4. [DIY Air Purifier]({% post_url 2023-10-14-air-purifier %})
+5. [DIY Therapy]({% post_url 2023-10-28-therapy %})
+6. [Get Learned Sites]({% post_url 2023-11-07-learn-sites %})
+7. [Temp Email Services]({% post_url 2023-11-14-temp-email-services %})
+8. [FIRE - Financial Independence Retire Early]({% post_url 2023-11-28-FIRE %})
+9. [Programming]({% post_url 2023-12-07-programming %})
+10. [Workouts]({% post_url 2023-12-14-workouts %})
+11. [VPN]({% post_url 2023-12-20-vpn %})
+12. [Cut the Cord (ditch cable tv)]({% post_url 2023-12-21-cut-the-cord-tv %})
+13. [Year End Lists]({% post_url 2023-12-24-year-end-lists %})
 
 
