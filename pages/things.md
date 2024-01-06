@@ -17,13 +17,13 @@ image: assets/images/5.jpg
     - weekly flyers
 3. [Costco via coccowest]({% post_url 2023-01-07-costco %})
     - pics of what's on sale at Costco (weekly)
-4. [StockTrack]({% post_url 2023-02-28-stocktracks %})
+4. [StockTrack]({% post_url 2023-02-28-stocktrack %})
     - inventory and daily price drops at major retailers
 5. [CamelCamelCamel]({% post_url 2023-04-28-camelcamelcamel %})
     - price history
 6. [Honey]({% post_url 2023-05-01-honey %})
     - promo codes for online purchases
-7. [Rakuten]({% post_url 2023-05-14-rakuten %})
+7. [Rakuten and Checkout51]({% post_url 2023-05-14-rakuten %})
     - cash back on shopping
 8. [GasBuddy]({% post_url 2023-05-28-gasbuddy %})
     - crowd sourced gas prices at the pumps
@@ -99,7 +99,7 @@ image: assets/images/5.jpg
 
 12. [Community Garage Sales]({% post_url 2023-12-23-garage-sales %})
 
-13. [Hikes in or near Calgary]({% post_url 2023-12-23-hikes %})
+13. [Hikes in or near Calgary]({% post_url 2023-12-28-hikes %})
 
 
 
@@ -119,6 +119,6 @@ image: assets/images/5.jpg
 10. [Workouts]({% post_url 2023-12-14-workouts %})
 11. [VPN]({% post_url 2023-12-20-vpn %})
 12. [Cut the Cord (ditch cable tv)]({% post_url 2023-12-21-cut-the-cord-tv %})
-13. [Year End Lists]({% post_url 2023-12-24-year-end-lists %})
+13. [Year End Lists]({% post_url 2023-12-31-year-end-lists %})
 
 

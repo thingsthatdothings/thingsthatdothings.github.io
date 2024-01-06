@@ -18,6 +18,9 @@ Need some student project work to build up your resume or scholarship applicatio
 + **[YMCA Youth Leadership](https://www.ymcacalgary.org/programs-search?locations=&categories=&exclude=&ages=&days=&weeks=&keywords=youth%20leadership&no_results=0&sort=title__ASC)**
 
 
+## Spring Break Work Experience
++ **[Stem Fellowship uCalgary](https://linktr.ee/stemfellowshipucalgary)
+
 ## Summer Work Experience
 + **[HYRS](https://research.ucalgary.ca/students/alberta-innovates-HYRS)**
 + **[HIP (Edm)](https://www.ualberta.ca/computing-science/explore/hs-internships/index.html)**
@@ -33,6 +36,10 @@ Need some student project work to build up your resume or scholarship applicatio
 + community association involvement
 + **[YMCA](https://app.betterimpact.com/PublicOrganization/8a67feef-cc0f-4f32-b716-06692e622419/1)**
 + **[Calgary Public Library](https://calgarylibrary.ca/your-library/volunteer/youth-volunteers/)**
+
+
+## Tours
++ **[U of A Getaway](https://www.ualberta.ca/admissions/undergraduate/tours-and-events/uofa-getaway.html)
 
 
 ## Other
