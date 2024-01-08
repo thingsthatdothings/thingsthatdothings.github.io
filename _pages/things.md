@@ -117,5 +117,5 @@ permalink: "/things/"
 11. [VPN]({% post_url 2023-12-20-vpn %})
 12. [Cut the Cord (ditch cable tv)]({% post_url 2023-12-21-cut-the-cord-tv %})
 13. [Year End Lists]({% post_url 2023-12-31-year-end-lists %})
-
+14. [AI Tools]({% post_url 2024-01-07-AI %})
 

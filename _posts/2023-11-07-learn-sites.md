@@ -16,8 +16,8 @@ Get learn-ed.
 
 
 ## MIT
-+ **[30 Best MIT courses via mashable](https://mashable.com/article/free-mit-courses-january)
++ **[30 Best MIT courses via mashable](https://mashable.com/article/free-mit-courses-january)**
 
 
 ## Harvard
-+ **[Harvard CS50 (2023) – Full Computer Science University Course via YouTube](https://www.youtube.com/watch?v=LfaMVlDaQ24)
++ **[Harvard CS50 (2023) – Full Computer Science University Course via YouTube](https://www.youtube.com/watch?v=LfaMVlDaQ24)**

@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
+    gem 'jekyll-target-blank'
 end
 
 gem "webrick", "~> 1.7"

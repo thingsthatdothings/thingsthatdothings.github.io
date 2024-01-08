@@ -8,4 +8,4 @@ comments: false
 
 Want to see if an item is in stock at a store?  Do you also want to see daily price drops at major retailers.
 
-+  **[StockTracks](https://stocktrack.ca/)** 
++  **[StockTrack](https://stocktrack.ca/)** 

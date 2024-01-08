@@ -20,7 +20,7 @@ Need some student project work to build up your resume or scholarship applicatio
 
 
 ## Spring Break Work Experience
-+ **[Stem Fellowship uCalgary](https://linktr.ee/stemfellowshipucalgary)
++ **[Stem Fellowship uCalgary](https://linktr.ee/stemfellowshipucalgary)**
 
 ## Summer Work Experience
 + **[HYRS](https://research.ucalgary.ca/students/alberta-innovates-HYRS)**

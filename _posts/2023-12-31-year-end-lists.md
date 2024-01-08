@@ -14,7 +14,6 @@ comments: false
 ## Billboard Year End Hot 100 Singles
 
 + **[2023 (via wikipedia)](https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2023)**
-
 + **[2022 (via wikipedia)](https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2022)**
 
 ## Top 100 Photos of the Year
