@@ -52,6 +52,9 @@ License: https://www.wowthemes.net/freebies-license/
 
 /* Light Theme */
 :root, html, body:before, body:after, body {
+    font-size: 1.2rem;
+    font-family: "PT Sans",sans-serif;
+
     background: var(--background-light);
     color: var(--text-light);
     --primary-text-color: var(--text-light);
