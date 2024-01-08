@@ -3,6 +3,7 @@ layout: post
 title:  "Krazy Binz"
 categories: [ deals ]
 image: assets/images/2.jpg
+comments: false
 ---
 
 Are you ok with unknown Amazon returns at hopefully a lower price?

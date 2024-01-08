@@ -3,6 +3,7 @@ layout: post
 title:  "Cut the Cord (ditch cable tv)"
 categories: [ other ]
 image: assets/images/1.jpg
+comments: false
 ---
 
 Do you really need cable tv?

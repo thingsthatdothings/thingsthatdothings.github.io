@@ -3,6 +3,7 @@ layout: post
 title:  "Scholarships"
 categories: [ school ]
 image: assets/images/3.jpg
+comments: false
 ---
 
 Don't leave free money for university on the floor.

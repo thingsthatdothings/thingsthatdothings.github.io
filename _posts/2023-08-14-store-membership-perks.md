@@ -3,6 +3,7 @@ layout: post
 title:  "Store Membership Perks"
 categories: [ deals ]
 image: assets/images/5.jpg
+comments: false
 ---
 
 Weigh email/text spam with potential store membership perks.

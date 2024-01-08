@@ -3,6 +3,7 @@ layout: post
 title:  "Grocery Store Clearance"
 categories: [ other, deals ]
 image: assets/images/4.jpg
+comments: false
 ---
 
 Tip:

@@ -3,6 +3,7 @@ layout: post
 title:  "Facebook Marketplace"
 categories: [ deals ]
 image: assets/images/6.jpg
+comments: false
 ---
 
 Are you ok with slightly used stuff at hopefully a lower price?

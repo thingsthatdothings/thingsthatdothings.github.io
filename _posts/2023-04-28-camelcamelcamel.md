@@ -3,6 +3,7 @@ layout: post
 title:  "CamelCamelCamel for price history"
 categories: [ deals ]
 image: assets/images/6.jpg
+comments: false
 ---
 
 Is this the best price for whatever you want to buy?

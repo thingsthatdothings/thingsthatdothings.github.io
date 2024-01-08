@@ -3,6 +3,7 @@ layout: post
 title:  "Get Learned"
 categories: [ other ]
 image: assets/images/1.jpg
+comments: false
 ---
 
 Get learn-ed.

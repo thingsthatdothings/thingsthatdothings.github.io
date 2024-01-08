@@ -3,6 +3,7 @@ layout: post
 title:  "Alberta Health"
 categories: [ calgary ]
 image: assets/images/6.jpg
+comments: false
 ---
 
 COVID and Influenza wastewater readings:

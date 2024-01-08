@@ -3,6 +3,7 @@ layout: post
 title:  "AP Resources"
 categories: [ school ]
 image: assets/images/4.jpg
+comments: false
 ---
 
 ## Study Guides / Practices Exams

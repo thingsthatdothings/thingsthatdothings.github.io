@@ -1,32 +1,52 @@
-title: "Things That Do Things"
-timezone: UTC
-baseurl: "/test"
-permalink: "/:title/"
+# Site
+name: "Things That Do Things"
+title: "Things"
+description: "Cheap on principle ... mostly in Calgary."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-paginate: 10
-locale: en_us
-lang: en_us
-feed_items: 10
-feed_update_period: daily
-feed_update_frequency: 1
-markdown: kramdown
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-sass:
-  sass_dir: _sass
-  style: :compressed
-ganalytics: UA-xxxxxxx-x
-
+favicon: 'assets/images/logo.png'
+baseurl: /things
+google_analytics: 'UA-xxxxxxxx-1'
+disqus: 'demowebsite'
+#mailchimp-list: 'xxxxxxx'
+include: ["_pages"]
+permalink: /:title/
 
 # Plugins
-plugins: 
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
-- jekyll-archives
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
 
-# Theme
-# theme: https://github.com/wowthemesnet/affiliates-jekyll-theme/
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-xxxxxxxxxxx"
+adsense-data-ad-slot: "xxxxxxxxxxx"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

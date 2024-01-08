@@ -3,6 +3,7 @@ layout: post
 title:  "School Resources"
 categories: [ school ]
 image: assets/images/3.jpg
+comments: false
 ---
 
 Resources to help through school:

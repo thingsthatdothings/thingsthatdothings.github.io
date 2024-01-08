@@ -3,6 +3,7 @@ layout: post
 title:  "Student Projects and Leadership Experience"
 categories: [ school ]
 image: assets/images/4.jpg
+comments: false
 ---
 
 Need some student project work to build up your resume or scholarship application?

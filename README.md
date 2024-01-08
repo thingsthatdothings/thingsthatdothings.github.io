@@ -90,7 +90,7 @@ link to a post in Markdown as follows:
 
 2. upgrade bootstrap to v5
 
-3. fav icon
+3. fav icon and logo
 
 4. Setup Google Analytics
 
@@ -98,4 +98,4 @@ link to a post in Markdown as follows:
 
 6. Setup Google Ads
 
-7. Add feed link in menu: feed at /feed.xml
+7. Go through PR's and implement as needed (ex: better pagination)

@@ -3,6 +3,7 @@ layout: post
 title:  "Programming"
 categories: [ other ]
 image: assets/images/4.jpg
+comments: false
 ---
 
 The cool thing about programming ... most everything can be learned online for free.

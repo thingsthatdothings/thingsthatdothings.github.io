@@ -3,6 +3,7 @@ layout: post
 title:  "Air Quality"
 categories: [ calgary ]
 image: assets/images/5.jpg
+comments: false
 ---
 
 Popular weather apps may show the air quality at one location in the city:

@@ -3,6 +3,7 @@ layout: post
 title:  "Report an anon issue to 311"
 categories: [ calgary ]
 image: assets/images/4.jpg
+comments: false
 ---
 
 Use 311 Spot Reporter to place an anonymous issue to The City.

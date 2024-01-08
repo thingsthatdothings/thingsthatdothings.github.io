@@ -3,6 +3,7 @@ layout: post
 title:  "Calgary Surplus"
 categories: [ deals ]
 image: assets/images/1.jpg
+comments: false
 ---
 
 Are you ok with slightly used stuff at hopefully a lower price?

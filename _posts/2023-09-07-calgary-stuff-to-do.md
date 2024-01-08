@@ -3,6 +3,7 @@ layout: post
 title:  "Stuff to do in Calgary"
 categories: [ calgary ]
 image: assets/images/1.jpg
+comments: false
 ---
 
 Got plans this weekend?

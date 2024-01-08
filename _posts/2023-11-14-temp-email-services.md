@@ -3,6 +3,7 @@ layout: post
 title:  "Temp Email Services"
 categories: [ other ]
 image: assets/images/2.jpg
+comments: false
 ---
 
 Do you need an email to sign up for something but don't want the spam?

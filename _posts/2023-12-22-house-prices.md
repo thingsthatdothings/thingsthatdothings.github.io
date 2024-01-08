@@ -3,6 +3,7 @@ layout: post
 title:  "Home Assessment Values"
 categories: [ calgary ]
 image: assets/images/3.jpg
+comments: false
 ---
 
 How much is your neighbor's house?

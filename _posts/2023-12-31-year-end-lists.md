@@ -3,6 +3,7 @@ layout: post
 title:  "Year End Lists"
 categories: [ other ]
 image: assets/images/3.jpg
+comments: false
 ---
 
 ## Good News That You May Have Missed
@@ -20,6 +21,10 @@ image: assets/images/3.jpg
 
 + **[2023 (via Time)](https://time.com/6337364/top-100-photos-2023/)**
 + **[2022 (via Time)](https://time.com/6234958/top-100-photos-2022/)**
+
+## Google Trending
++ **[2023 Google Trending](https://trends.google.com/trends/yis/2023/GLOBAL/)**
++ **[2022 Google Trending](https://trends.google.com/trends/yis/2022/GLOBAL/)**
 
 ## Google Tips
 + **[2023 Google Most Helpful Tips](https://blog.google/inside-google/google-most-helpful-tips-2023/)**
