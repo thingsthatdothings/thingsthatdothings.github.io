@@ -74,7 +74,7 @@ permalink: "/things/"
     - current and forecasted air quality in Calgary
 
 4. [Health Stats]({% post_url 2023-02-07-alberta-health %})
-    - waste water data in Alberta
+    - hospital wait times, waste water data, school absenteeism in Alberta
 
 5. [Stuff to do in Calgary]({% post_url 2023-09-07-calgary-stuff-to-do %})
     - weekly events

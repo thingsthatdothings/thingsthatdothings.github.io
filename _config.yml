@@ -5,7 +5,7 @@ description: "Cheap on principle ... mostly in Calgary."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /things
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-7ZR3SNMFC9'
 disqus: 'demowebsite'
 #mailchimp-list: 'xxxxxxx'
 include: ["_pages"]
