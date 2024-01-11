@@ -2,7 +2,7 @@
 layout: post
 title:  "Cut the Cord (ditch cable tv)"
 categories: [ other ]
-image: assets/images/1.jpg
+image: assets/images/4.jpg
 comments: false
 ---
 

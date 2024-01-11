@@ -2,15 +2,16 @@
 layout: post
 title:  "Scholarships"
 categories: [ school ]
-image: assets/images/3.jpg
+image: assets/images/2.jpg
 comments: false
 ---
 
-Don't leave free money for university on the floor.
+Free money for school? Yes please.
 
 Notes:
     - scholarship info changes often - so check the site for more accurate info.
     - create a spreadsheet, watch the deadlines
+    - alot of Scholarships ask for essays - if you are tempted to use ChatGPT, generate a few times, pick out the best parts, and change it up before submitting - make it unique "-ish"
 
 ## Scholarship Databases
 

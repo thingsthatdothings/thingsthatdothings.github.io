@@ -26,9 +26,9 @@ permalink: "/things/"
     - crowd sourced gas prices at the pumps
 9. [TooGoodToGo]({% post_url 2023-06-07-toogoodtogo %})
     - day old baked goods or meals at the fraction of the price
-10. [Kijiji]({% post_url 2023-06-07-toogoodtogo %})
+10. [Kijiji]({% post_url 2023-06-14-kijiji %})
     - used stuff
-11. [Facebook Marketplace]({% post_url 2023-06-07-toogoodtogo %})
+11. [Facebook Marketplace]({% post_url 2023-06-28-facebook-marketplace %})
     - used stuff
 12. [Calgary Surplus]({% post_url 2023-07-07-calgary-surplus %})
     - used stuff

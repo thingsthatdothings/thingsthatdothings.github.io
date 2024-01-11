@@ -2,7 +2,7 @@
 layout: post
 title:  "Streaming Music"
 categories: [ other ]
-image: assets/images/3.jpg
+image: assets/images/4.jpg
 comments: false
 ---
 
@@ -10,7 +10,7 @@ Don't want to shell out for selectable ad-free skipable music?  Try these:
 
 + **[YouTube Music](https://music.youtube.com/)** 
     - can choose from collections
-    - no ads if you use Firefox focus browser
+    - no ads if you use Firefox focus browser on mobile devices
 
 + **[Nonoki](https://nonoki.com/)** 
     - doesn't need an account for basic search

@@ -2,12 +2,13 @@
 layout: post
 title:  "Garbage Day"
 categories: [ calgary ]
-image: assets/images/2.jpg
+image: assets/images/3.jpg
 comments: false
 ---
 
-When does the grabage/recycle/compost truck come?
+When does the garbage/recycle/compost truck come?
 
 - **[calgary.ca](https://www.calgary.ca/waste/residential/garbage-schedule.html)**
+    - remember, the green cart goes to a 2 week cycle in the winter
 
 

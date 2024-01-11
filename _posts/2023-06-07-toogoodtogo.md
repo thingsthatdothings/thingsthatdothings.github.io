@@ -2,7 +2,7 @@
 layout: post
 title:  "TooGoodToGo - Food Rescue"
 categories: [ deals ]
-image: assets/images/4.jpg
+image: assets/images/1.jpg
 comments: false
 ---
 
@@ -13,3 +13,8 @@ Want to save good food from going to waste?
 
 Note:
 - this needs the mobile app and a credit/debit card
+- Timmies
+    - usually 6-7 baked goods (like a muffin, savory twist, croissant, or bagel)
+    - some online images show the possibility of 12 donuts (rarity?)
+- 7-Eleven
+    - usually 6-13 donuts/muffins/croissants

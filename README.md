@@ -86,16 +86,8 @@ link to a post in Markdown as follows:
 
 # TODO's
 
-1. default placeholder images
+1. upgrade bootstrap to v5
 
-2. upgrade bootstrap to v5
+2. Setup Formbricks account
 
-3. fav icon and logo
-
-4. Setup Google Analytics
-
-5. Setup Formbricks account
-
-6. Setup Google Ads
-
-7. Go through PR's and implement as needed (ex: better pagination)
+3. Setup Google Ads

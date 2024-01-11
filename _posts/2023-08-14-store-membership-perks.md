@@ -2,7 +2,7 @@
 layout: post
 title:  "Store Membership Perks"
 categories: [ deals ]
-image: assets/images/5.jpg
+image: assets/images/1.jpg
 comments: false
 ---
 
@@ -24,7 +24,7 @@ Weigh email/text spam with potential store membership perks.
 6. **[A&W](https://web.aw.ca/en/order)**
     - sometimes has free with purchase offers in their app
 6. **[New York Fries](https://frysociety.newyorkfries.com/Wrap?vnPath=%2f)**
-    - has 1 or 2 free offers a year
+    - has a few free offers a year
 7. **[Cirkle K](https://games.circlek.com/ca)**
     - multiple contests throughout year to get free food items
 8. **[Can Tire Triangle Rewards](https://www.canadiantire.ca/en/triangle-registration.html)**

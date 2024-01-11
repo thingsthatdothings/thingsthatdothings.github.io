@@ -2,7 +2,7 @@
 layout: post
 title:  "School Resources"
 categories: [ school ]
-image: assets/images/3.jpg
+image: assets/images/2.jpg
 comments: false
 ---
 

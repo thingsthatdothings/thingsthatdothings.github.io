@@ -2,11 +2,13 @@
 layout: post
 title:  "AP Resources"
 categories: [ school ]
-image: assets/images/4.jpg
+image: assets/images/2.jpg
 comments: false
 ---
 
 ## Study Guides / Practices Exams
+
+A list of AP resources that may be useful:
 
 + **[AP Course & Exam Pages (latest exams) via College Board site](https://apcentral.collegeboard.org/courses)** 
     - click on course
@@ -17,7 +19,8 @@ comments: false
 + **[AP Past Exams (latest and past exams)](https://www.clacenter.com/ap-past-exams.html)**
 
 
-+ **[AP CS A - Reviews and past solved solutions with commentary](https://www.apcomputersciencetutoring.com/)**
++ **[AP CS A - Reviews and past solved solutions](https://www.apcomputersciencetutoring.com/)**
+    - includes commentary on how to solve problems
 
 + **[AP CS A - Past exams with solutions](https://www.skylit.com/beprepared/fr.html)**
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Facebook Marketplace"
 categories: [ deals ]
-image: assets/images/6.jpg
+image: assets/images/1.jpg
 comments: false
 ---
 
@@ -15,3 +15,7 @@ Are you ok with slightly used stuff at hopefully a lower price?
     <i class="fa fa-info-circle"></i> 
     <b>Note:</b> Be safe! Read these <a href="https://www.facebook.com/help/1156544111079919">safety notes</a> from Facebook Marketplace.
 </div>
+
+Related:
+- [Kijiji]({% post_url 2023-06-14-kijiji %})
+- [Buy Nothing](https://buynothingproject.org/find-a-group#rec479374820)

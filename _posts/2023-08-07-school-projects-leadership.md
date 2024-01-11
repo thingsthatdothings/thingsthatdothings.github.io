@@ -2,7 +2,7 @@
 layout: post
 title:  "Student Projects and Leadership Experience"
 categories: [ school ]
-image: assets/images/4.jpg
+image: assets/images/2.jpg
 comments: false
 ---
 
