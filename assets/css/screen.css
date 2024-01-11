@@ -1093,8 +1093,8 @@ ul.tags li {
 }
 .maintitle {
     color:#3968a8;
-    align-items: center;
-    text-align: center;
+    /* align-items: center;
+    text-align: center; */
 }
 
 .sitetitle {
@@ -1111,6 +1111,10 @@ ul.tags li {
     background-size: 400%;
     animation: move 15s ease infinite;
     background-image: linear-gradient( 68.7deg,  rgb(26, 78, 199) 13.2%, rgba(137,149,250,1) 29.8%, rgb(192, 155, 186) 48.9%, rgb(239, 111, 151) 68.2%, rgba(255,94,0,1) 86.4% );
+}
+
+.sitetitle a {
+    color: transparent;
 }
 
 @keyframes move {
