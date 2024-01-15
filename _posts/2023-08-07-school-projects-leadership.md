@@ -15,7 +15,7 @@ Need some student project work to build up your resume or scholarship applicatio
 ## After school
 
 + **[JA Company Program](https://jasab.ca/programs/details/company-program-after-school.html)**
-+ **[UofC Reasearch](https://yourekacanada.org/apply)**
++ **[Youreka - UofC Reasearch](https://yourekacanada.org/apply)**
 + **[YMCA Youth Leadership](https://www.ymcacalgary.org/programs-search?locations=&categories=&exclude=&ages=&days=&weeks=&keywords=youth%20leadership&no_results=0&sort=title__ASC)**
 
 
@@ -40,7 +40,8 @@ Need some student project work to build up your resume or scholarship applicatio
 
 
 ## Tours
-+ **[U of A Getaway](https://www.ualberta.ca/admissions/undergraduate/tours-and-events/uofa-getaway.html)
++ **[U of A Getaway](https://www.ualberta.ca/admissions/undergraduate/tours-and-events/uofa-getaway.html)**
+    - spend a couple of days in Edm touring campus (free?)
 
 
 ## Other

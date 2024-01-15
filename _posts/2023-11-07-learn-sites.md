@@ -6,7 +6,9 @@ image: assets/images/4.jpg
 comments: false
 ---
 
-Get learn-ed.
+There's a wealth of free online courses and learning material out there.
+
+Here's a few:
 
 ## TED
 

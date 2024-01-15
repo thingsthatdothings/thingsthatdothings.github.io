@@ -11,6 +11,9 @@ Resources to help through school:
 ## Calendars
 
 + **[CBE calendars](https://www.cbe.ab.ca/registration/calendars/Pages/default.aspx)**
+    - [2023-2024 Traditional](https://www.cbe.ab.ca/registration/calendars/FuturePastCalendar/2023-2024-Traditional-Calendar.pdf)
+    - [2024-2025 Traditional](https://cbe.ab.ca/registration/calendars/FuturePastCalendar/2024-2025-Instructional-Calendar.pdf)
+    - [2025-2026 Traditional - tentative](https://cbe.ab.ca/registration/calendars/FuturePastCalendar/2025-2026-Instructional-Calendar.pdf)
 
 + **[CSSD calendars](https://www.cssd.ab.ca/calendar)**
 

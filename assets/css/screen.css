@@ -1071,6 +1071,13 @@ ul.tags li {
   );
 
 }
+.navbar {
+    padding: 0%;
+}
+
+/* .navbar-brand {
+    margin-right: 2px;
+} */
 
 .nav-link {
     color: rgb(217, 215, 215) !important;
@@ -1104,7 +1111,7 @@ ul.tags li {
     line-height:65px;
     letter-spacing: 10px; */
     text-align: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: transparent;
     -webkit-background-clip: text;
     background-clip: text;

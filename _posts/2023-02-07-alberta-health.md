@@ -9,7 +9,7 @@ comments: false
 
 <div markdown="span" class="alert alert-info" role="alert">
     <i class="fa fa-info-circle"></i> 
-    <b>Update:</b> Hospital Wait Times added
+    <b>Update:</b> Hospital Wait Times found here
 </div>
 
 
@@ -17,7 +17,7 @@ comments: false
 
 Know how much food to bring with you, and how many spare battery packs to bring with you (unless you're lucky enough to get the coveted plug-in) while sitting in the waiting room.
 
-+ **[Alberta Health Services](https://www.albertahealthservices.ca/waittimes/Page14230.aspx/)**
++ **[Alberta Health Services](https://www.albertahealthservices.ca/waittimes/waittimes.aspx/)**
 
 
 ## COVID and Influenza wastewater readings
