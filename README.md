@@ -88,6 +88,4 @@ link to a post in Markdown as follows:
 
 1. upgrade bootstrap to v5
 
-2. Setup Formbricks account
-
 3. Setup Google Ads
