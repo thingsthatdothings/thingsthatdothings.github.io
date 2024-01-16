@@ -2,7 +2,7 @@
 layout: post
 title:  "Programming"
 categories: [ other ]
-image: assets/images/4.jpg
+image: assets/images/tech.jpg
 comments: false
 ---
 

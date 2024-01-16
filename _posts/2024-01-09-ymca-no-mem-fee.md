@@ -2,7 +2,7 @@
 layout: post
 title:  "YMCA - Winter Promo"
 categories: [ deals ]
-image: assets/images/1.jpg
+image: assets/images/workout.jpg
 comments: false
 ---
 
