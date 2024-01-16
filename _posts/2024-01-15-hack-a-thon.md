@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "YYC Hackathon: Feb 2-4"
-categories: [ calgary ]
+categories: [ calgary, tech ]
 image: assets/images/tech.jpg
 comments: false
 ---
@@ -11,4 +11,7 @@ Show your programming/ designing/ artistry/ testing/ project management skills a
 - **[YYC Hacks](https://yychacks.ca/)**
     - Feb 2-4, 2024
     - Bow Valley College
+    - $20 entrance fee, but there's snacks, lunches, and dinner
+    - need a team of 6-10 people
+    - pre-registration required
 

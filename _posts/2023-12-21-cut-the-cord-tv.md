@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Cut the Cord (ditch cable tv)"
-categories: [ other ]
-image: assets/images/4.jpg
+categories: [ other, tech ]
+image: assets/images/lightbulb.jpg
 comments: false
 ---
 

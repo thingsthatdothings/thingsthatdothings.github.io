@@ -2,7 +2,7 @@
 layout: post
 title:  "Store Membership Perks"
 categories: [ deals ]
-image: assets/images/1.jpg
+image: assets/images/deals.jpg
 comments: false
 ---
 

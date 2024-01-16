@@ -2,7 +2,7 @@
 layout: post
 title:  "Chapman’s $4 Annual Coupon 2024"
 categories: [ deals ]
-image: assets/images/1.jpg
+image: assets/images/deals.jpg
 comments: false
 ---
 

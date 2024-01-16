@@ -2,7 +2,7 @@
 layout: post
 title:  "Grocery Store Clearance"
 categories: [ other, deals ]
-image: assets/images/4.jpg
+image: assets/images/lightbulb.jpg
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Home Assessment Values"
 categories: [ calgary ]
-image: assets/images/3.jpg
+image: assets/images/house.jpg
 comments: false
 ---
 

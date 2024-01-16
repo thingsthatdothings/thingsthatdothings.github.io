@@ -2,7 +2,7 @@
 layout: post
 title:  "Scholarships"
 categories: [ school ]
-image: assets/images/2.jpg
+image: assets/images/school.jpg
 comments: false
 ---
 

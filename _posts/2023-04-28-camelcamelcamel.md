@@ -2,7 +2,7 @@
 layout: post
 title:  "CamelCamelCamel for price history"
 categories: [ deals ]
-image: assets/images/1.jpg
+image: assets/images/deals.jpg
 comments: false
 ---
 

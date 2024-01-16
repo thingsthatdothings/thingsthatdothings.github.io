@@ -2,7 +2,7 @@
 layout: post
 title:  "Garbage Day"
 categories: [ calgary ]
-image: assets/images/3.jpg
+image: assets/images/garbage.jpg
 comments: false
 ---
 

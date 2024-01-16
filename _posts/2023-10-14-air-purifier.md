@@ -2,7 +2,7 @@
 layout: post
 title:  "DIY Air Purifier"
 categories: [ other ]
-image: assets/images/4.jpg
+image: assets/images/lightbulb.jpg
 comments: false
 ---
 

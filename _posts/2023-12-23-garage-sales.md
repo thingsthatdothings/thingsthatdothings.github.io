@@ -2,7 +2,7 @@
 layout: post
 title:  "Garage Sales"
 categories: [ calgary ]
-image: assets/images/3.jpg
+image: assets/images/garage-sale.jpg
 comments: false
 ---
 

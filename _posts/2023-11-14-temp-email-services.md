@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Temp Email Services"
-categories: [ other ]
-image: assets/images/4.jpg
+categories: [ other, tech ]
+image: assets/images/email.jpg
 comments: false
 ---
 

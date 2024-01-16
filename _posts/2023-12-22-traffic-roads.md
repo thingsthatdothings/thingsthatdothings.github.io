@@ -2,7 +2,7 @@
 layout: post
 title:  "Traffic and Roads"
 categories: [ calgary ]
-image: assets/images/3.jpg
+image: assets/images/roads.jpg
 comments: false
 ---
 

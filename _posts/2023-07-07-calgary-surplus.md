@@ -2,7 +2,7 @@
 layout: post
 title:  "Calgary Surplus"
 categories: [ deals ]
-image: assets/images/1.jpg
+image: assets/images/deals.jpg
 comments: false
 ---
 

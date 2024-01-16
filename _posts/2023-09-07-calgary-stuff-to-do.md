@@ -2,7 +2,7 @@
 layout: post
 title:  "Stuff to do in Calgary"
 categories: [ calgary ]
-image: assets/images/3.jpg
+image: assets/images/city.jpg
 comments: false
 ---
 

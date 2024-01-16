@@ -2,7 +2,7 @@
 layout: post
 title:  "Streaming Music"
 categories: [ other ]
-image: assets/images/4.jpg
+image: assets/images/music.jpg
 comments: false
 ---
 

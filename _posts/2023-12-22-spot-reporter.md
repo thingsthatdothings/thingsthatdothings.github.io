@@ -2,7 +2,7 @@
 layout: post
 title:  "Report an anon issue to 311"
 categories: [ calgary ]
-image: assets/images/3.jpg
+image: assets/images/city.jpg
 comments: false
 ---
 
