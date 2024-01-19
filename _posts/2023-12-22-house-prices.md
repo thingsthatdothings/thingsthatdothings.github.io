@@ -9,6 +9,8 @@ comments: false
 How much is your neighbor's house?
 
 - **[calgary.ca](https://assessmentsearch.calgary.ca/externallogin.aspx)**
-    - use the public access
-    - clear your browser cache if you hit the search limit
+
+Note
+- use the public access link
+- clear your browser cache if you hit the search limit
 

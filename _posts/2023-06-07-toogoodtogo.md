@@ -15,6 +15,6 @@ Note:
 - this needs the mobile app and a credit/debit card
 - Timmies
     - usually 6-7 baked goods (like a muffin, savory twist, croissant, or bagel)
-    - some online images show the possibility of 12 donuts (rarity?)
+    - some online images show the possibility of 12 donuts, this is rare, but fits the 1/3 the original price scheme
 - 7-Eleven
     - usually 6-13 donuts/muffins/croissants

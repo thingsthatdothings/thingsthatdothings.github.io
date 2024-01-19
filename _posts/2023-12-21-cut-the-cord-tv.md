@@ -15,3 +15,5 @@ Go to safe sites like those found in **[this link](https://wealthawesome.com/fre
 
 Warning - DO NOT GO to **[ARC018](https://arc018.to/home)** - DON'T DO IT!
 
+Related:
+- [VPN]({% post_url 2023-12-20-vpn %})

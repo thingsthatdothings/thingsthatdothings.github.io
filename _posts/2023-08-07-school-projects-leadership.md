@@ -29,7 +29,7 @@ Need some student project work to build up your resume or scholarship applicatio
 
 ## Hackathons
 + **[Microsoft](https://imaginecup.microsoft.com/)**
-+ **[Platform Hackathon](https://www.yychacks.ca/)**
++ **[YYC Hackathon](https://www.yychacks.ca/)**
 + **[UofC Hackathon](https://calgaryhacks.ca/)**
 
 

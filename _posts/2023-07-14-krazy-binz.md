@@ -14,3 +14,4 @@ Tips:
 - bring hand sanitizer
 - bring a few large bags
 - be lined up at the door at 11am sharp, or don't bother going at all  (vultures)
+- sometimes, the doors open a few minutes before 11am

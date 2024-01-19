@@ -10,7 +10,7 @@ Got plans this weekend?
 
 ## Weekly updates
 
-Update weekly:
+Updated weekly:
 
 - **[calgaryschild.com](https://www.calgaryschild.com/)**
     - click on the "What's Up This Week?" link
