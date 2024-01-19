@@ -157,7 +157,7 @@ Note: the below selection of rides is geared towards older kids
 - Journey Into Imagination With Figment
 - Disney and Pixar Short Film Festival (18m)
 
-##### Food - Table Service##### Food - Table Service
+##### Food - Table Service
 - Garden Grill, Lunch and Dinner, buffet, spins
 - Biergarten, Lunch and Dinner, buffet
 - La Hacienda de San Angel, Dinner
