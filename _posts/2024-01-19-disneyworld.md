@@ -6,7 +6,7 @@ image: assets/images/disney.jpg
 comments: false
 ---
 
-Planning for a Disney Trip is an adventure in itself.
+Months of planning are needed for a Disney Trip.  Have you started?
 
 ## DisneyWorld - Florida
 

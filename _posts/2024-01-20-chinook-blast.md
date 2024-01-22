@@ -1,16 +1,23 @@
 ---
 layout: post
-title:  "Shoppers: 20% off reg price on Tues Jan 23rd 2024"
-categories: [ deals ]
-image: assets/images/deals.jpg
+title:  "Chinook Blast"
+categories: [ calgary ]
+image: assets/images/snowflake.jpg
 comments: false
-featured: true
 ---
 
-Useful for things that don't go one sale, like bananas.  See exclusions list.
+Festivals in the winter?  That's cool.
 
-- **[Shoppers 20% off Coupon (via SmartCanucks)](https://smartcanucks.ca/shoppers-drug-mart-family-friends-event-save-20-with-coupon-january-23rd/)**
+- **[Chinook Blast](https://www.chinookblast.ca/)**
+    - music
+    - sports
+    - picture worthy installations
+    - picture worthy lights
+    - theatre/performances
+    - markets
+    - food
+    - etc.
 
 
-Exclusions:
-- carbonated soft drinks, **eggs**, **milk**, bathroom tissue, tobacco, lottery tickets, alcohol, subscriptions, gift cards, all prepaid card, transit/event tickets, post office transactions, prestige cosmetics, prestige fragrances, gaming consoles and accessories, laptops and notebooks, tablets and e-readers, speakers, headphones, TVs, smart watches and health devices, smart home devices, cameras and photo accessories, passport photos, cash back, etc.
+Related:
+- [Stuff to do in Calgary]({% post_url 2023-09-07-calgary-stuff-to-do %})
