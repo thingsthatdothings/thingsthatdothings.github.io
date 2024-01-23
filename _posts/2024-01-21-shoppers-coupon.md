@@ -7,7 +7,7 @@ comments: false
 featured: true
 ---
 
-Useful for things that don't go one sale, like bananas.  See exclusions list. YMMV.
+Useful for things that don't go on sale ever, like bananas.  Milk and eggs are excluded this time. See full exclusions list. YMMV.
 
 - **[ShoppersDrugMart 20% off reg price coupon (via SmartCanucks)](https://smartcanucks.ca/shoppers-drug-mart-family-friends-event-save-20-with-coupon-january-23rd/)**
 

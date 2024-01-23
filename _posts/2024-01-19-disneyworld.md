@@ -19,7 +19,7 @@ Months of planning are needed for a Disney Trip.  Have you started?
 
 ### Flights
 - there is a direct Westjet flight from YYC to MCO
-- Westjet usually has Black Friday and Birthday Sales (Feb 28)
+- Westjet usually has Black Friday and Birthday Sales (Feb 28/29)
 - Tip: the RBC Westjet Mastercard ($119) wil get you a round trip companion voucher for $119 and a free checked bag
 
 ### Hotel
@@ -50,7 +50,7 @@ Months of planning are needed for a Disney Trip.  Have you started?
 Note: the below selection of rides is geared towards older kids
 
 - Install Disney App on your phone
-- Consider bring a battery bank
+- Consider bringing a battery power bank
 
 #### Magic Kingdom - [Map](https://www.wdwinfo.com/maps/mk.htm)
 
@@ -90,7 +90,7 @@ Note: the below selection of rides is geared towards older kids
 
 ##### Frontierland
 
- - Tiana’s Bayou Adventure
+ - Tiana’s Bayou Adventure (aka Splash Mountain)
  - Big Thunder Railroad
  - Tom Sawyer Island
 
@@ -123,6 +123,8 @@ Note: the below selection of rides is geared towards older kids
 - Plaza Ice Cream Parlor - Brownie Sundae (8)
 - Aloha Isle - Dole Whip (6)
 
+
+
 #### EPCOT - [Map](https://www.wdwinfo.com/maps/epcot.htm)
 
 - Luminous The Symphony of Us (9pm?)
@@ -136,9 +138,9 @@ Note: the below selection of rides is geared towards older kids
 ##### World Nature
 - Soarin' Around the World
 - Soarin' Over California
+- Journey of Water, Inspired by Moana (trail?) -NEW
 - The Seas with Nemo & Friends
 - Turtle Talk With Crush
-- Journey of Water, Inspired by Moana (trail?) -NEW
 - Living with the Land
 - Awesome Planet
 
@@ -182,6 +184,7 @@ Note: the below selection of rides is geared towards older kids
 - Sleepy Hollow - Funnel Cake (7/8)
 - Karamell Kuche 
 - Les Halles Boulangerie Patisserie - pastries/sandwich/soup
+
 
 
 #### Hollywood Studios - [Map](https://www.wdwinfo.com/maps/disney-hollywood-studios-map.htm)

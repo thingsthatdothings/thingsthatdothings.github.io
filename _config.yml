@@ -1,7 +1,7 @@
 # Site
 name: "Things That Do Things"
 title: "Things"
-description: "Curated blog of easy, cheap, and useful things in Calgary."
+description: "Cheap and useful things in Calgary (minus the fluff)"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /things
