@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Shoppers: 20% off reg price on Tues Jan 23rd 2024"
+title:  "[Expired] Shoppers: 20% off reg price on Tues Jan 23rd 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-featured: true
 ---
 
 Useful for things that don't go on sale ever, like bananas.  Milk and eggs are excluded this time. See full exclusions list. YMMV.
