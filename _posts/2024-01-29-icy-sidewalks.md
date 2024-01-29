@@ -2,7 +2,7 @@
 layout: post
 title:  "Icy Sidewalks: Free sand-salt mix"
 categories: [ calgary ]
-image: assets/images/city.jpg
+image: assets/images/snowflake.jpg
 comments: false
 ---
 

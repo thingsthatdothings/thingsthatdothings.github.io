@@ -2,7 +2,7 @@
 layout: post
 title:  "Inspirational Quotes"
 categories: [ other ]
-image: assets/images/lightbulb.jpg
+image: assets/images/quotes.jpg
 comments: false
 ---
 

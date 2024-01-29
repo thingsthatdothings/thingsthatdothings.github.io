@@ -16,7 +16,7 @@ permalink: "/things/"
     - pics of what's on sale at Costco (weekly)
 4. [StockTrack]({% post_url 2023-02-28-stocktrack %})
     - inventory and daily price drops at major retailers
-5. [CamelCamelCamel]({% post_url 2023-04-28-camelcamelcamel %})
+5. [CamelCamelCamel and Keepa]({% post_url 2023-04-28-camelcamelcamel %})
     - price history
 6. [Honey]({% post_url 2023-05-01-honey %})
     - promo codes for online purchases
