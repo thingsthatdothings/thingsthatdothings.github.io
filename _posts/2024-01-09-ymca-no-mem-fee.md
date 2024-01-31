@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "YMCA - Winter Promo"
+title:  "[Expired] YMCA - Winter Promo"
 categories: [ deals ]
 image: assets/images/workout.jpg
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DisneyWorld Vacation"
+title:  "DisneyWorld Vacation: Free Dining Plan 2024"
 categories: [ other ]
 image: assets/images/disney.jpg
 comments: false

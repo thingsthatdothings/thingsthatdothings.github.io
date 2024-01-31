@@ -2,7 +2,7 @@
 layout: post
 title:  "[Expired] Calgary Global Game Jam: Jan 26-28"
 categories: [ calgary, tech ]
-image: assets/images/tech.jpg
+image: assets/images/gaming.jpg
 comments: false
 ---
 

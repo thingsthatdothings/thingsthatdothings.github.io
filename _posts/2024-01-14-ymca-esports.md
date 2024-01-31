@@ -2,7 +2,7 @@
 layout: post
 title:  "YMCA - eSports"
 categories: [ calgary, tech ]
-image: assets/images/tech.jpg
+image: assets/images/gaming.jpg
 comments: false
 ---
 
