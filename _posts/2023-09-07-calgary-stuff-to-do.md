@@ -18,6 +18,13 @@ Updated weekly:
     - click on the "weekend events" link
 
 
+Event Calendars:
+- **[globalnews.ca](https://globalnews.ca/calgary/events/)**
+- **[visitcalgary.com](https://www.visitcalgary.com/events)**
+- **[familyfuncanada.com](https://www.familyfuncanada.com/calgary/calendar/)**
+- **[calgaryschild.com](https://www.calgaryschild.com/calendar)**
+
+
 ## Tourism
 
 Useful if you have guests staying with you:
