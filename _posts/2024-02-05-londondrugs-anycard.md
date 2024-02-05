@@ -27,4 +27,7 @@ Looks like you have to create an account at Anycard, then choose a vendor to get
 
 
 
-Note: Walmart may have a similar deal starting Feb 8th, so if a Walmart gift card works better for you then a London Drugs gift card, wait til then.
+Note: Walmart may have a similar deal starting Feb 8th, so if a Walmart gift card works better for you than a London Drugs gift card, wait til then.
+
+Related:
+ - see [RFD Gift Card Thread](https://forums.redflagdeals.com/various-retailers-gift-cards-deals-discounts-2024-2666408/)
