@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Expired] Circle K: free BodyArmor drink"
+title:  "[Expired] Circle K: free BodyArmor drink - Jan 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

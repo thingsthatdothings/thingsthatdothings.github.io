@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BulkBarn: $3 off $15 until Feb 25th or $5 off $20 until Feb 18th "
+title:  "BulkBarn: $3 off $15 until Feb 25th or $5 off $20 until Feb 18th 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

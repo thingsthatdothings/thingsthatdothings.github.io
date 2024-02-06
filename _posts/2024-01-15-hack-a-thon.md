@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Expired] YYC Hackathon: Feb 2-4"
+title:  "[Expired] YYC Hackathon: Feb 2-4 2024"
 categories: [ calgary, tech ]
 image: assets/images/tech.jpg
 comments: false

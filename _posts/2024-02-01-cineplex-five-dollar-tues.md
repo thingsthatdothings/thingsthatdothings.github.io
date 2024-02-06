@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cineplex: $5 movie tickets. $5 small popcorn. Every Tuesday in February."
+title:  "Cineplex: $5 movie tickets. $5 small popcorn. Every Tuesday in February 2024."
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
