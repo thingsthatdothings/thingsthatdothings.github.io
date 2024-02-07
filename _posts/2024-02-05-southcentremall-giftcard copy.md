@@ -6,7 +6,7 @@ image: assets/images/deals.jpg
 comments: false
 ---
 
-If you're buying some big stuff at SouthCentre Mall, might as well get a free Gift Card as well.
+If you're buying some big stuff at SouthCentre Mall, might as well get a free Gift Card - right?
 
 - [SouthCentre Mall](https://southcentremall.com/gift-cards/)
     - Spend $200-$499 and get a $10 Southcentre Gift Card + $10 Milestones Gift Card

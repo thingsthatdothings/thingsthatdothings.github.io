@@ -9,7 +9,7 @@ comments: false
 
 <div markdown="span" class="alert alert-info" role="alert">
     <i class="fa fa-info-circle"></i> 
-    <b>Update:</b> Hospital Wait Times found here
+    <b>Update:</b> See Hospital Wait Times
 </div>
 
 
