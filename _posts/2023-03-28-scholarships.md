@@ -9,9 +9,9 @@ comments: false
 Free money for school? Yes please.
 
 Notes:
-    - scholarship info changes often - so check the site for more accurate info.
-    - create a spreadsheet, watch the deadlines
-    - alot of Scholarships ask for essays - if you are tempted to use ChatGPT, generate a few times, pick out the best parts, and change it up before submitting - make it unique "-ish"
+- scholarship info changes often,so check the site for more accurate info.
+- create a spreadsheet, watch the deadlines
+- many Scholarships ask for essays - if you are tempted to use ChatGPT, generate a few times, pick out the best parts, and change it up, take out flourishy words that you would normally would not use, make it unique "-ish", and specific to you before submitting
 
 ## Scholarship Databases
 
@@ -78,6 +78,39 @@ Notes:
     - $10,000
     - Create and lead a project
 
+## A Few Other Scholarship examples
 
-
-
++ **[strikegroup](https://www.strikegroup.ca/scholarships/)**
+    - $2,000
+    - Western Canada: volunteering, community, and career goals
++ **[educationmatters - benjamin-ben-albert-award](https://www.educationmatters.ca/awards/benjamin-ben-albert-award/)**
+    - $3,000
+    - sports
++ **[educationmatters - calgarians-improving-society](https://www.educationmatters.ca/awards/calgarians-improving-society-award/)**
+    - $10,000
+    - for Calgary post secondary (ex: UofC)
+    - essay on how their chosen career will help improve Canadian society
+    - 2 ref letters for community involvement and future plans
++ **[educationmatters - calgary-flames-foundation-community-involvement](https://www.educationmatters.ca/awards/calgary-flames-foundation-community-involvement-scholarship/)**
+    - $2,000
+    - essay on how they have demonstrated leadership in their volunteerism
++ **[educationmatters - city-of-calgary-degree-granting](https://www.educationmatters.ca/awards/city-of-calgary-degree-granting-scholarship/)**
+    - $1,700 (none others)
+    - for Calgary post secondary diploma (ex: SAIT)
++ **[educationmatters - future-leaders ](https://www.educationmatters.ca/awards/educationmatters-future-leaders-award/)**
+    - $1,000
+    - volunteerism, positive citizenship and leadership
+    - 1 ref letter
++ **[educationmatters - richard-r-and-linda-a-singleton-education-fund](https://www.educationmatters.ca/awards/richard-r-and-linda-a-singleton-education-fund-award/)**
+    - $2,000
+    - positive citizenship qualities as revealed by the participation in non-academic activities for the school and/or community
+    - part time or summer job
+    - essay and 2 ref letters
++ **[educationmatters - pamela-jane-hardy-memorial](https://www.educationmatters.ca/awards/pamela-jane-hardy-memorial-award/)**
+    - $2,500
+    - strong aptitude in mathematics and involvement in sport, financial need
+    - essay and 1 ref letter
++ **[educationmatters - investing-in-the-future](https://www.educationmatters.ca/awards/investing-in-the-future-award/)**
+    - $100,000 (10)
+    - financial need
+    - essay on the impact on their lives and the impact they hope to have on the world should they receive this opportunity
