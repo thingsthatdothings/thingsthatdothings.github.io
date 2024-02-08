@@ -6,7 +6,7 @@ image: assets/images/deals.jpg
 comments: false
 ---
 
-Michaels has their coveted 40% off one regular priced item now til Monday Feb 19th, 2024. 
+Michaels has their coveted 40% off one regular priced item coupon now til Monday Feb 19th, 2024. 
 
 You can use it once per day, but if you need to get more than 1 item, go again the next day.  Or, bring a friend to do a separate transaction.
 
