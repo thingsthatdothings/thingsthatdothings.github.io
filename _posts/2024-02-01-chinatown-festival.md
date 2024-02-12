@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chinese New Year Festival 2024"
+title:  "[Expired] Chinese New Year Festival 2024"
 categories: [ calgary, other ]
 image: assets/images/dragon.jpg
 comments: false
