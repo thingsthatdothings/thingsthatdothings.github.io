@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Southcentre Mall: Purchase $200+ GC receive a $10, $25 or $50 bonus + Milestones bonus card until Feb 14th 2024"
+title:  "[Expired] Southcentre Mall: Purchase $200+ GC receive a $10, $25 or $50 bonus + Milestones bonus card until Feb 14th 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

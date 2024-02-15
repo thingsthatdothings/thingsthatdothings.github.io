@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "ENMAX: Fixed Electricity Rate changes to 11.49c/kWh"
+categories: [ calgary, deals ]
+image: assets/images/city.jpg
+comments: false
+---
+
+Check your electricity contract, if its over 12 cents, renew with the lower rate.  It only takes a couple of clicks online once you're logged in.  
+
+Note: EasyMax Loyalty Dual Fuel users may see the rate decrease even further (11.29c/kWh)?
+
+- [ENMAX rates](https://www1.enmax.com/electricity-and-natural-gas/easymax)
+
+
+Reminder: you can switch between available rates or Energy plans once a month.
