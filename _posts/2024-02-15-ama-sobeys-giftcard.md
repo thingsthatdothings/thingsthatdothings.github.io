@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AMA: Load $150 Sobeys Gift Card and get bonus $10 GC (and 5% rewards) Feb 15th - Feb 18th 2024"
+title:  "[Expired] AMA: Load $150 Sobeys Gift Card and get bonus $10 GC (and 5% rewards) Feb 15th - Feb 18th 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
