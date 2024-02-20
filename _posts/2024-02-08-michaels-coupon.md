@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Michaels: 40% off reg price coupon until Feb 19th, 2024"
+title:  "[Expired] Michaels: 40% off reg price coupon until Feb 19th, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

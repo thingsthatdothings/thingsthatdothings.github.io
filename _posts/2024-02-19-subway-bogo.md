@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Subway: BOGO footlong sub in app until March 3rd - use code BOGOFL"
+title:  "Subway: In App, BOGO footlong sub until March 3rd 2024 - use code BOGOFL"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
@@ -9,7 +9,7 @@ comments: false
 There's a few classic foot long subs under $10 (ex: Cold Cut Combo), with the BOGOFL code - works out to $5 foot long plus tax.
 
 
-![Subway Poster](https://www.subway.com/en-ca/-/media/northamerica/Canada/HomePageLogOut/2024/W1/FWH/HP_FWH_DMB_Subway_W1_DigitalAccelerator_EN_505x485.png?sc_lang=en-CA&la=en-CA&h=485&w=505&mw=0&hash=A0BADB3AA5454EA486E57654F7287411)
+![Subway Poster](https://www.subway.com/en-ca/-/media/northamerica/Canada/HomePageLogOut/2024/W1/FWH/HP_FWH_DMB_Subway_W1_DigitalAccelerator_EN_505x485.png)
 
 
 Fine Print:

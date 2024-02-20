@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "McDonalds: In app, Free Small Coffee or Iced Coffee with min $1 purchase Feb 20th-26th 2024"
+categories: [ deals ]
+image: assets/images/deals.jpg
+comments: false
+---
+
+McD's is celebrating their new coffee cup design.  Golden Arches and McCafé logo.  Wow.  Game changer.
+
+
+![McDonalds Cup](https://s7d1.scene7.com/is/image/mcdonalds/Coffee_Medium_StandardAngle:Card-Image-desktop?resmode=sharp2)
+
+
+[McDonalds NewsRoom](https://www.mcdonalds.com/ca/en-ca/newsroom/article/Sip-in-Style-McCafe-Canada-is-Launching-a-Fresh-New-Look.html)
+
+
+Fine Print:
+*Minimum $1 pre-tax purchase required. Excludes flavoured beverages. At participating McDonald’s restaurants in Canada. App download and registration required.
+
+ 
