@@ -17,6 +17,6 @@ In-store:
 
 March 2nd and 3rd from 10 a.m. to 3 p.m. for free snacks, activities, prizes and more.
 
-Until March 6, Rona be handing out $25 gift cards on purchases of $100 or more, and the first 150 customers will get a free RONA+ bucket.
+Until March 6, Rona will be handing out $25 gift cards on purchases of $100 or more, and the first 150 customers will get a free RONA+ bucket.
 
 - [Rona conversion poster](https://www.rona.ca/en/lowes-rona-conversion?int_cmp=corporate-_-ronaplus_conversion_wave5-_-hp)

@@ -11,7 +11,7 @@ Check out the Wendy's app for the following offers:
 - Free small Chilli with purchase
 - $4 Classic Chicken strips
 - Buy one Breakfast Wrap, get a second for $1
-- $ large Fries with purchase
+- $1 large Fries with purchase
 
 ![Wendy's coupons found in app](https://f.dam-img.rfdcontent.com/cms/010/173/629/10173629_original.jpg)
 

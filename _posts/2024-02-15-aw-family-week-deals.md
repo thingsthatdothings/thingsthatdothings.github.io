@@ -10,9 +10,9 @@ Use your A&W account and A&W app to get some cheap treats.
 
 There's a few free item with purchase deals - probably can buy a coffee or apple pie and then get the free item?
 
-- Monday February 19: BOGO Mama Burger
-- Tuesday February 20: Free Teen Burger with purchase
-- Wednesday February 21: Free Onion Rings with purchase
+- [Expired] Monday February 19: BOGO Mama Burger
+- [Expired] Tuesday February 20: Free Teen Burger with purchase
+- [Expired] Wednesday February 21: Free Onion Rings with purchase
 - Thursday February 22: Free Mama Burger with purchase
 - Friday February 23: Free Fries with purchase
 - Saturday February 24: Free Root Beer with purchase

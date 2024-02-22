@@ -10,14 +10,16 @@ Need some student project work to build up your resume or scholarship applicatio
 
 ## At School
 
-+ participate in school sports and join school clubs (ex: Model UN)
++ participate in school sports and join school clubs (ex: Model UN, Science Olympics)
 
 ## After school
 
 + **[JA Company Program](https://jasab.ca/programs/details/company-program-after-school.html)**
 + **[Youreka - UofC Reasearch](https://yourekacanada.org/apply)**
 + **[YMCA Youth Leadership](https://www.ymcacalgary.org/programs-search?locations=&categories=&exclude=&ages=&days=&weeks=&keywords=youth%20leadership&no_results=0&sort=title__ASC)**
-
+    - bonus: get a free YMCA membership after 3 months
++ **[The Duke of Edinburgh's International Award](https://www.dukeofed.org/)**
+    - this one is a larger commitment
 
 ## Spring Break Work Experience
 + **[Stem Fellowship uCalgary](https://linktr.ee/stemfellowshipucalgary)**
@@ -37,6 +39,7 @@ Need some student project work to build up your resume or scholarship applicatio
 + community association involvement
 + **[YMCA](https://app.betterimpact.com/PublicOrganization/8a67feef-cc0f-4f32-b716-06692e622419/1)**
 + **[Calgary Public Library](https://calgarylibrary.ca/your-library/volunteer/youth-volunteers/)**
++ **[United Way](https://calgaryunitedway.org/take-action/volunteer/)**
 
 
 ## Tours
