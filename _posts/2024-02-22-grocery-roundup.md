@@ -74,8 +74,8 @@ Shout out to local Reddit'er ([PurpleGeek](https://www.reddit.com/user/PurpleGee
    - Iceberg Lettuce: $2.49 - get 250pts when you buy 2
 - Costco:
    - 10kg of flour - reg price of $9.99 (but double sifted?)
-   - 2kg of frozen fruit - usually around $12.99 reg price?
-   - Ambrosia Canada Extra Fancy Apples 6lbs: $6.99 (ymmv)
+   - 2kg of frozen fruit - usually around $12.99 reg price? (ymmv)
+   - Ambrosia Canada Extra Fancy Apples 6lbs: $8.99 (6.99 in BC, 8.99 in AB)
    - Harvest BBQ Weiners 1.5kg, $11.49
    - Erie Meats Chicken Breast Bites 1.5kg, $12.99
    - Siwin Chicken Potstickers 1.91kg, $11.99
