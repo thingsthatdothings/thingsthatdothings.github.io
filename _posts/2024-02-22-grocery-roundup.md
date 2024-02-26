@@ -4,7 +4,6 @@ title:  "Grocery Deals (February 22 to 28, 2024)"
 categories: [ deals ]
 image: assets/images/groceries.jpg
 comments: false
-featured: true
 ---
 
 Shout out to local Reddit'er ([PurpleGeek](https://www.reddit.com/user/PurpleGeek/)) who has publicly posted grocery deals for the week for Freshco, No Frills, Walmart, Superstore, Co-Op, Save-on, and Sobeys/Safeway.

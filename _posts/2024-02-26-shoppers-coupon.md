@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Shoppers: 20% off reg price on Tues Feb 27th 2024"
+categories: [ deals ]
+image: assets/images/deals.jpg
+comments: false
+---
+
+Useful for things that don't go on sale ever, like bananas.  Milk and eggs are included this time? YMMV. 
+
+Check your email for your specific coupon barcode from Shoppers.
+
+![ShoppersDrugMart 20% off reg price coupon (via RFD)](https://a.dam-img.rfdcontent.com/cms/010/217/502/848x760_smart_fit.jpg)
+
+
+Fine Print:
+
+Limited time offer and subject to change without notice. 20% discount applies to all regular priced merchandise instore at Shoppers Drug Mart and Wellwise by Shoppers. Offer does not
+apply to online purchases. Offer excludes purchase of certain products/services (e.g. tobacco, lottery tickets, alcohol, subscriptions, gift cards, all prepaid card, transit/event tickets,
+post office transactions, prestige cosmetics, prestige fragrances, gaming consoles and accessories, laptops and notebooks, tablets and e-readers, speakers, headphones, TVs, smart
+watches and health devices, smart home devices, cameras and photo accessories, passport photos, cash back, delivery charges, all purchases made through non-participating 3rd party
+operations and any other products that may not be legally offered in connection with the PC Optimum Program, products and services that are provincially regulated including pharmacy-
+related transactions or as we determine from time to time). For photofinishing services this offer only applies to orders that are picked up and paid for on the advertised date(s) of the
+promotion. Discount cannot be used in conjunction with employee discount or any other promotional offer.

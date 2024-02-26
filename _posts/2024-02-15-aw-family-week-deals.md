@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A&W: In App coupons Feb 19th - Feb 25th 2024"
+title:  "[Expired] A&W: In App coupons Feb 19th - Feb 25th 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
