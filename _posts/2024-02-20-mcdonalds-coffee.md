@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "McDonalds: In app, Free Small Coffee or Iced Coffee with min $1 purchase Feb 20th-26th 2024"
+title:  "[Expired] McDonalds: In app, Free Small Coffee or Iced Coffee with min $1 purchase Feb 20th-26th 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

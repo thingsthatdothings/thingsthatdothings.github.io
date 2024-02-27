@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Expired]London Drugs: Free $10 gift card with $50 purchase of Anycard gift card until Feb 7th 2024"
+title:  "[Expired] London Drugs: Free $10 gift card with $50 purchase of Anycard gift card until Feb 7th 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
