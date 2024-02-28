@@ -17,7 +17,7 @@ Need some student project work to build up your resume or scholarship applicatio
 + **[JA Company Program](https://jasab.ca/programs/details/company-program-after-school.html)**
 + **[Youreka - UofC Reasearch](https://yourekacanada.org/apply)**
 + **[YMCA Youth Leadership](https://www.ymcacalgary.org/programs-search?locations=&categories=&exclude=&ages=&days=&weeks=&keywords=youth%20leadership&no_results=0&sort=title__ASC)**
-    - bonus: get a free YMCA membership after 3 months
+    - offered at select locations and at select times each year
 + **[The Duke of Edinburgh's International Award](https://www.dukeofed.org/)**
     - this one is a larger commitment
 
@@ -28,6 +28,9 @@ Need some student project work to build up your resume or scholarship applicatio
 + **[HYRS](https://research.ucalgary.ca/students/alberta-innovates-HYRS)**
 + **[HIP (Edm)](https://www.ualberta.ca/computing-science/explore/hs-internships/index.html)**
 
+## Exploratory and Dual Credit courses
++ **[CBE Unique Pathways](https://cbe.ab.ca/programs/high-school/unique-pathways-and-off-campus-education/Pages/default.aspx)**
+    - includes a few summer courses as well
 
 ## Hackathons
 + **[Microsoft](https://imaginecup.microsoft.com/)**
@@ -38,6 +41,7 @@ Need some student project work to build up your resume or scholarship applicatio
 ## Volunteer
 + community association involvement
 + **[YMCA](https://app.betterimpact.com/PublicOrganization/8a67feef-cc0f-4f32-b716-06692e622419/1)**
+    - bonus: get a free YMCA membership after 3 months
 + **[Calgary Public Library](https://calgarylibrary.ca/your-library/volunteer/youth-volunteers/)**
 + **[United Way](https://calgaryunitedway.org/take-action/volunteer/)**
 
