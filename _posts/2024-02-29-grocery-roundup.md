@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "Grocery Deals (February 29 to March, 2024)"
+categories: [ deals ]
+image: assets/images/groceries.jpg
+comments: false
+---
+
+Shout out to local Reddit'er ([PurpleGeek](https://www.reddit.com/user/PurpleGeek/)) who has publicly posted grocery deals for the week for Freshco, No Frills, Walmart, Superstore, Co-Op, Save-on, and Sobeys/Safeway.
+
+[Calgary Grocery Deals (February 29 to March 6, 2024)](https://www.reddit.com/r/Calgary/comments/1b2m0mo/calgary_grocery_deals_february_29_to_march_6_2024/) lists the following:
+
+## Real Canadian Superstore:
+- No Name Naturally Imperfect russet potatoes (20lb): $5.94
+- Farmers Market Gala apples (6lb): $6.99
+- Voortman wafers or turnovers: $1.89
+- Honeydew melon: $5.99
+- Farmers Market yellow onions (3lb): $2.39
+- Farmers Market sweet peppers (4-pack): $4.00 (depends on how big they are)
+- Country Harvest bread: $2.97 (No Frills is slightly better)
+- Campbell’s Soup: 4,000pts for every $10 spent. Price match No Frills where these are on sale for $2.69ea, effectively making them $1.69ea when buying 4.
+- Tamam beans (540ml): $0.99
+- Tamam tahini (907g): $6.49
+- Suraj beans (540ml): $0.99
+
+## No Frills:
+- Schneiders or Maple Leaf bacon (375g): $3.99
+- No Name Naturally Imperfect red or russet potatoes (20lb): $5.94
+- Iceberg lettuce: $1.99
+- Cosmic Crisp apples (5lb): $6.99
+- Celery: $2.99
+- Country Harvest bread: $3.29, buy 1 get 500pts effectively making them $2.79
+- No Name cheese (200g): $2.00
+- Iogo Yogurt (16x100g): $5.49
+
+## Walmart:
+- Tomato clusters: $1.44/lb
+- Strawberries (1lb): $2.84
+- Janes chicken strips (700g): $5.42
+- Heinz beans: $0.87
+- Gay Lea butter (1lb): $4.97
+- Dempster’s bread: 2 for $6, must be purchased in pairs
+- Celery: $2.97
+
+## Safeway / Sobeys:
+- Tuesday, March 5: Scene member day: Get 15% off purchases of $50 or more
+- Redeem 1000 pts get 200 pts
+- Lean ground beef: $3.99/lb
+- Strawberries (1lb): $2.99
+- Selected Post and Kellog’s cereal (good on Scene Member Day, mediocre otherwise)
+- Campbell’s broth (900ml): $1.25
+- Honeydew melon: $6.49, buy 1 get 50pts, effectively making them $5.99
+
+## FreshCo:
+- Asparagus: $1.97/lb
+- Campbell’s broth (900ml): $1.25
+- Romain hears (3-pack): $3.99, buy 1 get 50pts effectively making them $3.47ea
+- Dempsters bread: $2.97
+
+## Save on Foods:
+- 15% off when you spend $50+ on Tuesday, March 5
+- Broccoli crowns: $1.99/lb
+- Navel oranges: $1.29/lb
+- Quaker cereal: $3.25 (decent on its own, particularly good if you get to $50 on March 5)
+
+## Calgary Coop:
+- February 29 to March 3: Spend $75+, get 15% bonus cash
+- Lean Ground Beef (3 pound tube): $3.99/lb
+
+
+Related:
+ - [Costco pics of the week]({% post_url 2023-01-07-costco %})
+ - [Dollarama pics of the week]({% post_url 2023-02-14-dollarama %})
+
+
+ 
