@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DisneyWorld Vacation: Free Dining Plan 2024"
+title:  "DisneyWorld Vacation"
 categories: [ other ]
 image: assets/images/disney.jpg
 comments: false
@@ -9,13 +9,6 @@ comments: false
 Months of planning are needed for a Disney Trip.  Have you started?
 
 ## DisneyWorld - Florida
-
-<div markdown="span" class="alert alert-info" role="alert">
-    <i class="fa fa-info-circle"></i> 
-    <b>Update:</b> Free Dining Plan for Disney+ Subscribers between July 1 and Sept 30, 2024 for min 4 night stay.
-    <br/>
-    **[Disney Dining Plan details](https://disneyparks.disney.go.com/blog/2024/01/disneyplus-subscribers-enjoy-a-free-dining-plan-at-walt-disney-world/)**
-</div>
 
 ### Flights
 - there is a direct Westjet flight from YYC to MCO

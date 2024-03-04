@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Subway: In App, BOGO footlong sub until March 3rd 2024 - use code BOGOFL"
+title:  "[Expired] Subway: In App, BOGO footlong sub until March 3rd 2024 - use code BOGOFL"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rona+: Store conversion celebrations. March 2nd and 3rd for free snacks, Feb 29th to March 6th 2024 for $25 gift card on $100 spend."
+title:  "[Expired] Rona+: Store conversion celebrations. March 2nd and 3rd for free snacks, Feb 29th to March 6th 2024 for $25 gift card on $100 spend."
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

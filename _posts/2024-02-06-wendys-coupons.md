@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wendy's: coupons until March 3rd 2024"
+title:  "[Expired] Wendy's: coupons until March 3rd 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heritage Park: Hiring Fair on March 2, 2024"
+title:  "[Expired] Heritage Park: Hiring Fair on March 2, 2024"
 categories: [ other ]
 image: assets/images/lightbulb.jpg
 comments: false
