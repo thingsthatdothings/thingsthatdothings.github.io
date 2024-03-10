@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Circle K: Free product coupon for International Women's Day (sent to mobile phone/app). Coupon expires March 8, 2024"
+title:  "[Expired] Circle K: Free product coupon for International Women's Day (sent to mobile phone/app). Coupon expires March 8, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
