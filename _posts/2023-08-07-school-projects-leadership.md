@@ -28,9 +28,23 @@ Need some student project work to build up your resume or scholarship applicatio
 + **[HYRS](https://research.ucalgary.ca/students/alberta-innovates-HYRS)**
 + **[HIP (Edm)](https://www.ualberta.ca/computing-science/explore/hs-internships/index.html)**
 
+## Internships and Apprenticeships
++ **[Careers Next Gen](https://www.careersnextgen.ca/)**
+    - may include summer opportunities
+
 ## Exploratory and Dual Credit courses
 + **[CBE Unique Pathways](https://cbe.ab.ca/programs/high-school/unique-pathways-and-off-campus-education/Pages/default.aspx)**
-    - includes a few summer courses as well
+    - includes a few summer courses
+
+## Other Opportunities
++ **[Calgary Fire Cadet](https://www.calgary.ca/our-services/fire/cadets.html)**
+    - after school and weekend time commitments
++ **[Calgary Police Cadet](https://calgarypolicecadets.com/cadets/is-it-right-for-me/how-to-join/)**
+    - after school and weekend time commitments
++ **[Alberta Junior Forest Rangers](https://alis.alberta.ca/junior-forest-rangers/)**
+    - summer
++ **[Alberta RCMP Youth Camps](https://www.strathmorehighschool.com/home/news/post/alberta-rcmp-youth-camps)**
+    - summer
 
 ## Hackathons
 + **[Microsoft](https://imaginecup.microsoft.com/)**

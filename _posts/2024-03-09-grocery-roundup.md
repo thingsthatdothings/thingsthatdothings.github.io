@@ -63,6 +63,8 @@ Shout out to local Reddit'er ([PurpleGeek](https://www.reddit.com/user/PurpleGee
 
 
 ## Notes:
+- Superstore:
+    - Rooster Scented Jasmine Rice, 18kg, $29.99, limit 4
 - Walmart:
     - Hala Yogurt (tastes like sour cream?), 750g, $1.97
 - Sobeys:

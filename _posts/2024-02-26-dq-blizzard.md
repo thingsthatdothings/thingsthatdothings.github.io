@@ -4,6 +4,7 @@ title:  "DairyQueen: In App, $1 Small Blizzard, March 11 – 31, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+featured: true
 ---
 
 Use the App, and make sure you're a DQ® Rewards members.

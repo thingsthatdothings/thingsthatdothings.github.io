@@ -21,6 +21,7 @@ Notes:
 + **[Scholarships Canada](https://www.scholarshipscanada.com/)**
 + **[Scholar Tree](https://scholartree.ca/)**
 + **[yconic](https://yconic.com/)**
++ **[Calgary Foundation Awards](https://calgaryfoundation.org/student-awards/)**
 
 ## High Profile Scholarships
 
