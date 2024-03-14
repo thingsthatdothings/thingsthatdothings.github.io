@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disney+: Sign up to Disney+ Standard With Ads and get 3 months for $1.99 per month; ends MARCH 14"
+title:  "[Expired] Disney+: Sign up to Disney+ Standard With Ads and get 3 months for $1.99 per month; ends MARCH 14"
 categories: [ deals ]
 image: assets/images/disney.jpg
 comments: false
