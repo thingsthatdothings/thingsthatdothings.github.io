@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "CIBC Costco Mastercard: Get $30 credit on new approved applications until April 15, 2024"
+categories: [ deals ]
+image: assets/images/deals.jpg
+comments: false
+---
+
+This offer happens a few times a year. Useful if you plan to make some big purchases (ex: laptops, appliances, etc.)
+
+Get a $30 statement credit† when you apply and are approved for a CIBC Costco®† Mastercard. (see terms and conditions in link below)
+
+[CIBC Costco Mastercard more info](https://www.cibc.com/en/personal-banking/credit-cards/all-credit-cards/costco-mastercard.html)
+
+- Annual fee: $0
+- 3% cash back at restaurants and at Costco gas
+- 2% cash back at other gas stations and at Costco.ca
+- 1% cash back on all other purchases including at Costco
+
+Minimum annual income of $15,000 is required to qualify for the CIBC Costco Mastercard. Minimum $60,000 individual annual income or $100,000 household annual income is required to qualify for the CIBC Costco®† World Mastercard®.
+
+![CIBC Costco Mastercard](https://www.cibc.com/content/dam/global-assets/card-art/credit-cards/costco-card/cibc-mastercard-costco.png/_jcr_content/renditions/cq5dam.thumbnail.319.319.png)
