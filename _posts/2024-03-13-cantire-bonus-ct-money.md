@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Canadian Tire: SPEND $150+ ON ALMOST EVERYTHING. GET $30 in CT Money on Mar 15th 2024 only"
+title:  "[Expired] Canadian Tire: SPEND $150+ ON ALMOST EVERYTHING. GET $30 in CT Money on Mar 15th 2024 only"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grocery Deals (March 7 to 13, 2024)"
+title:  "[Expired] Grocery Deals (March 7 to 13, 2024)"
 categories: [ deals ]
 image: assets/images/groceries.jpg
 comments: false
