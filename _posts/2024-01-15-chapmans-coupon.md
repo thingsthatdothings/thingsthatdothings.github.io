@@ -12,3 +12,4 @@ Coupon will be snail mailed to you.
 
 + **[chapmans.ca/coupon](https://www.chapmans.ca/coupon/chapmans-4-annual-coupon-2024/)**
 
+![girl holding Chapmans coupon](https://www.chapmans.ca/wp-content/uploads/2023/04/girls-holding-coupon_yukon_summer.jpg)
