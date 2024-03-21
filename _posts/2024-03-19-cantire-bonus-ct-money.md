@@ -12,3 +12,4 @@ Pre-Tax purchase. Single use only per Triangle Rewards account. Conditions apply
 
 - [CanTire discussion in RFD](https://forums.redflagdeals.com/canadian-tire-early-spring-super-sale-mar-21-spend-100-get-20-bonus-ct-money-more-2682150/)
 
+![CanTire Promo poster](https://media-triangle.canadiantire.ca/promo-content/2024/01/-6426-ctr-sag-bn-v2-herocarousel-desktop-en.png)

@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Grocery Deals (March 21 to 27, 2024)"
+categories: [ deals ]
+image: assets/images/groceries.jpg
+comments: false
+---
+
+A few things that stood out in this week's flyers.
+
+## Real Canadian Superstore:
+- Grapes, 907g, $3.94 limit 4
+- Dan D Pak Unsalted Cashews, 500g, $5 limit 6
+- Reser's Salads, 1.25kg, $5 limit 4
+- PC chocolate covered fruit, 908g, $8.99
+- Iceberg lettuce, $2.47
+- No Name sausage chub, 500g, $3.99 limit 4
+- Halal Yogurt, 750g, $1.97, limit 4
+- Clic Dry Beans or Lentils, 907g, $2.99, limit 4
+- Shan spice mix, 50-100g, $1.44
+- No Name Pineapple Tidbits/Crushed, 540ml, $1.50
+
+## No Frills:
+- Grapes, 907g, $3.94 
+- PC Frozen Vegetables, 400-750g, $2
+- Chapman's Super Premium Ice Cream, 500ml, $3.99 - only good if using the $4 off vendor snail mail coupon
+- Clic Dry Beans or Lentils, 907g, $2.99
+
+## Walmart:
+- Carrots/Onions, 3lbs (1.36kg), $1.44
+- White Mushrooms, 227g, $1.44
+
+## Safeway / Sobeys:
+- Clubhouse Gravies or Sauces, 21-47g, $0.66 with scene card
+
+## FreshCo:
+- No 2. Potatoes, 15lbs, $4.97
+
+## Save on Foods:
+- Roma Tomatoes, $1.49/lb
+
+## Calgary Coop:
+- none
+
+## Costco:
+- Tostitos Salsa, 2x1.2L, $8.48
+- High Liner English Cod, 2kg, $21.99. (used to be $19.99, but can't go back in time)
+- Snowcrest Farms Organic Sliced Strawberries, 2kg, $11.99 (used to be $9.99, but can't go back in time)
+- Rodelle Organic Baking Cocoa, 700g, $7.49
+
+## Related:
+ - [Costco pics of the week]({% post_url 2023-01-07-costco %})
+ - [Dollarama pics of the week]({% post_url 2023-02-14-dollarama %})
+ - [Gift Card deals of the week](https://forums.redflagdeals.com/various-retailers-gift-cards-deals-discounts-2024-2666408)
+
+ 

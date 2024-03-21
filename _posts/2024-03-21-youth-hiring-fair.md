@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "City of Calgary: Youth Hiring Fair, March 28, 2024"
+categories: [ calgary ]
+image: assets/images/city.jpg
+comments: false
+---
+
+Get your resumes and elevator pitches ready!
+
+- Who: Youth between the ages of 15 and 24
+- Where: The Big Four Building, 1801 Big Four Trail SE, Stampede Park 
+- When: Thursday, March 28, 2024 from 1:30 p.m. - 6:00 p.m.
+- Free event. No registration required.
+
+[Youth Hiring Fair info](https://www.calgary.ca/social-services/youth/hiring-fair.html)
+
+![Youth Hiring Fair poster](https://www.calgary.ca/content/dam/www/csps/cns/publishingimages/youth-employment-centre/youth-hiring-fair-poster.jpg)
