@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alberta Health"
-categories: [ calgary ]
+categories: [ calgary,health ]
 image: assets/images/health.jpg
 comments: false
 ---

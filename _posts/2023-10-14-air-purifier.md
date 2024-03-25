@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DIY Air Purifier"
-categories: [ other ]
+categories: [ other, health ]
 image: assets/images/lightbulb.jpg
 comments: false
 ---

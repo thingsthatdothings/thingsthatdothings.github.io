@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Canadian Tire: Get $20 Bonus CT money if you spend $100, $40 Bonus CT money if you spend $200, or $60 bonus CT money if you spend $400 on Thurs Mar 21st 2024 only"
+title:  "[Expired] Canadian Tire: Get $20 Bonus CT money if you spend $100, $40 Bonus CT money if you spend $200, or $60 bonus CT money if you spend $400 on Thurs Mar 21st 2024 only"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

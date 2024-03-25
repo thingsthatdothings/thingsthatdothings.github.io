@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "7-Eleven: Bring Your Own Cup for $2.49 Slurpee - March 22-23, 2024"
+title:  "[Expired] 7-Eleven: Bring Your Own Cup for $2.49 Slurpee - March 22-23, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

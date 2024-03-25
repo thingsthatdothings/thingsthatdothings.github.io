@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Air Quality"
-categories: [ calgary ]
+categories: [ calgary, health ]
 image: assets/images/city.jpg
 comments: false
 ---

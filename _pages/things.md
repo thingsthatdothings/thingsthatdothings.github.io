@@ -10,6 +10,7 @@ permalink: "/things/"
 
 1. [RFD]({% post_url 2023-01-01-RFD %})
     - Canadian forum of hot deals
+    - gift card deals
 2. [Flipp]({% post_url 2023-04-14-flipp %})
     - weekly flyers
 3. [Costco via coccowest]({% post_url 2023-01-07-costco %})
@@ -33,7 +34,7 @@ permalink: "/things/"
 12. [Calgary Surplus]({% post_url 2023-07-07-calgary-surplus %})
     - used stuff
 13. [Krazy Binz]({% post_url 2023-07-14-krazy-binz %})
-    - used stuff
+    - returned and surplus stuff?
 14. [Store Memberships Perks]({% post_url 2023-08-14-store-membership-perks %})
     - PC, Scene, Ikea, Co-op, McDonald's, New York Fries, etc.
 
@@ -57,7 +58,8 @@ permalink: "/things/"
     - high profile scholarships
 
 4. [Project and Leadership Experience]({% post_url 2023-08-07-school-projects-leadership %})
-    - at school, after school, summer, hackathons, volunteering
+    - at school, after school, summer, hackathons
+    - volunteering, internships, work experience
 
 
 <h2 id="calgary">
@@ -98,6 +100,10 @@ permalink: "/things/"
 
 13. [Hikes in or near Calgary]({% post_url 2023-12-28-hikes %})
 
+14. [Annual Free Tree Program]({% post_url 2024-02-27-city-tree %})
+
+15. [ENMAX: Fixed Electricity and Gas Rates]({% post_url 2024-02-15-enmax-electricity-20240215 %})
+
 
 
 <h2 id="other">
@@ -118,4 +124,7 @@ permalink: "/things/"
 12. [Cut the Cord (ditch cable tv)]({% post_url 2023-12-21-cut-the-cord-tv %})
 13. [Year End Lists]({% post_url 2023-12-31-year-end-lists %})
 14. [AI Tools]({% post_url 2024-01-07-AI %})
-
+15. [Breast Cancer Risk Assessment Tools]({% post_url 2024-03-14-breast-cancer-risk-tools %})
+16. [AMA: Air Passenger Help Guide]({% post_url 2024-02-29-ama-air-travel-rights %})
+17. [iOS Shortcuts: Automation]({% post_url 2024-02-20-ios-shortcuts %})
+18. [Google Trends]({% post_url 2024-02-13-google-trends %})

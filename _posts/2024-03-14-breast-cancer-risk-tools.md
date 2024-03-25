@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Breast Cancer Risk Assessment Tools"
-categories: [ other ]
-image: assets/images/lightbulb.jpg
+categories: [ other, health ]
+image: assets/images/health.jpg
 comments: false
 ---
 
