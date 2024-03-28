@@ -78,6 +78,10 @@ Notes:
 + **[Barron Prize](https://barronprize.org/)**
     - $10,000
     - Create and lead a project
++ **[](https://www.energycreates.com/)**
+    - 5 x $100,000
+    - original artistic work on the theme of the Canadian energy sector
+    - note: read terms, they have the non-exclusive right to reproduce and publish an excerpt from the work submitted
 
 ## A Few Other Scholarship examples
 

@@ -104,6 +104,7 @@ permalink: "/things/"
 
 15. [ENMAX: Fixed Electricity and Gas Rates]({% post_url 2024-02-15-enmax-electricity-20240215 %})
 
+16. [Alberta Health Inspection Reports]({% post_url 2024-03-28-health-inspections %})
 
 
 <h2 id="other">
