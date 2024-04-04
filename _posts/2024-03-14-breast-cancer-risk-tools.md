@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Breast Cancer Risk Assessment Tools"
-categories: [ other, health ]
+categories: [ health ]
 image: assets/images/health.jpg
 comments: false
 ---

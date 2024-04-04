@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alberta Health Inspections"
-categories: [ health, other ]
+categories: [ health ]
 image: assets/images/lightbulb.jpg
 comments: false
 ---
