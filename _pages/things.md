@@ -13,7 +13,7 @@ permalink: "/things/"
     - gift card deals
 2. [Flipp]({% post_url 2023-04-14-flipp %})
     - weekly flyers
-3. [Costco via coccowest]({% post_url 2023-01-07-costco %})
+3. [Costco sale pics]({% post_url 2023-01-07-costco %})
     - pics of what's on sale at Costco (weekly)
 4. [StockTrack]({% post_url 2023-02-28-stocktrack %})
     - inventory and daily price drops at major retailers

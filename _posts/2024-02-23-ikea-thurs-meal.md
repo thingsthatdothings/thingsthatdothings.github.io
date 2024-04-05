@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ikea: Select meals 50% off on Thursdays until August 29, 2024"
+title:  "Ikea: Select meals 50% off - no end date?"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
@@ -14,7 +14,9 @@ IKEA Family members can enjoy favourite IKEA meals in the Swedish Restaurant at 
 - Salmon Filet - $6
 - Haddock & Fries - $4.50
 
-Limit of one meal per customer, so, make sure everyone has their own IKEA Family member card, which is free to sign up for.
+Limit of one meal per customer.
+
+IKEA Family member card is free to sign up for.
 
 [Ikea offer info](https://www.ikea.com/ca/en/stores/restaurant/#08efe6d0-ccde-11ee-aabf-09112827190d)
 
@@ -25,4 +27,4 @@ Limit of one meal per customer, so, make sure everyone has their own IKEA Family
 
 Fine Print:
 
-Swe-dish Thursdays – Offer valid for IKEA Family members on Thursday only after 11 am (after 2 pm in selected locations). Present a valid IKEA Family Card at checkout to qualify. Main dishes include: 8-piece Swedish Meatballs, 8-piece Plant Balls, 8-piece Veggie Balls, Salmon Filet, and Haddock & Fries. Valid until August 31, 2024. While supplies last. No rain checks. Selection may vary by store. Cannot be combined with other offers or discounts. Dine-in only. Limit of one meal per customer. Valid at participating IKEA Canada stores only. See in-store for details.
+Swe-dish Thursdays – Offer valid for IKEA Family members on Thursday only after 11am (after 2pm in selected locations). Present a valid IKEA Family Card at checkout to qualify. Main dishes include: 8-piece Swedish Meatballs, 8-piece Plant Balls, 8-piece Veggie Balls, Salmon Filet, and Haddock & Fries. While supplies last. No rain checks. Selection may vary by store. Cannot be combined with other offers or discounts. Dine-in only. Limit of one meal per customer. Offer subject to change or cancellation without notice. Valid at participating IKEA Canada stores only. See in-store for details. © Inter IKEA Systems B.V. 2024.
