@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CanTire: Redeem $10 in CanTire money, get $3 back until Apr 11th, 2024, YMMV"
+title:  "[Expired] CanTire: Redeem $10 in CanTire money, get $3 back until Apr 11th, 2024, YMMV"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
