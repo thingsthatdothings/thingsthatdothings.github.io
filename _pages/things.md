@@ -100,7 +100,7 @@ permalink: "/things/"
 
 13. [Hikes in or near Calgary]({% post_url 2023-12-28-hikes %})
 
-14. [Annual Free Tree Program]({% post_url 2024-02-27-city-tree %})
+14. [Annual Free Tree Program]({% post_url 2024-04-15-city-tree-2024 %})
 
 15. [ENMAX: Fixed Electricity and Gas Rates]({% post_url 2024-02-15-enmax-electricity-20240215 %})
 

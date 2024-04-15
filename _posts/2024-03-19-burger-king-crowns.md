@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Burger King: Get up to 4000 Crowns by voting via the Burger King app until Apr 8, 2024"
+title:  "[Expired] Burger King: Get up to 4000 Crowns by voting via the Burger King app until Apr 8, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
