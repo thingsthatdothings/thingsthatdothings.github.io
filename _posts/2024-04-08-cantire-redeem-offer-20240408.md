@@ -4,6 +4,7 @@ title:  "[Expired] CanTire: Redeem $10 in CanTire money, get $3 back until Apr 1
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 Check your CanTire offers.  You *might* have a redemption offer in there.

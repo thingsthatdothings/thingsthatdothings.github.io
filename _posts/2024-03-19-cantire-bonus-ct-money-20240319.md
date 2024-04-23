@@ -4,6 +4,7 @@ title:  "[Expired] Canadian Tire: Get $20 Bonus CT money if you spend $100, $40 
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 In-store and online.  Activate offer in app. One day only.

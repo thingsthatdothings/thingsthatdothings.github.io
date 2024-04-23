@@ -4,6 +4,7 @@ title:  "[Expired] Rona+: Store conversion celebrations. March 2nd and 3rd for f
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 

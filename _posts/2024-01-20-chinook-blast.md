@@ -4,6 +4,7 @@ title:  "[Expired] Chinook Blast 2024"
 categories: [ calgary ]
 image: assets/images/snowflake.jpg
 comments: false
+expired: true
 ---
 
 Festivals in the winter?  That's cool.

@@ -4,6 +4,7 @@ title:  "[Expired] Chinese New Year Festival 2024"
 categories: [ calgary, other ]
 image: assets/images/dragon.jpg
 comments: false
+expired: true
 ---
 
 Head to Chinatown to see some free lion/dragon dancing.  Feb 3rd, 4th, 10th, and 11th at noon-ish.

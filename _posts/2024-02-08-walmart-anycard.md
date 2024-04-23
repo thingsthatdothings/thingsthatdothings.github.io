@@ -4,6 +4,7 @@ title:  "[Expired] Walmart: BONUS $10 Walmart eGift Card with the purchase of $5
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 The extra $10 gift card will need to be used at Walmart. You can use the Anycard on one of the designated vendors.  Works out to 20% off.

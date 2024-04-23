@@ -4,6 +4,7 @@ title:  "[Expired] 7-Eleven: Bring Your Own Cup for $2.49 Slurpee - March 22-23,
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 Get your cups ready (ex: 1.8L orange juice containers). Go early before the floors get all sticky! $2.49.

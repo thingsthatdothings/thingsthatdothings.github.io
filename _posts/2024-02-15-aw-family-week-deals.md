@@ -4,6 +4,7 @@ title:  "[Expired] A&W: In App coupons Feb 19th - Feb 25th 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 Use your A&W account and A&W app to get some cheap treats.

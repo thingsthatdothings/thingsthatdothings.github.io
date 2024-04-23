@@ -4,6 +4,7 @@ title:  "[Expired] Calgary Global Game Jam: Jan 26-28 2024"
 categories: [ calgary, tech ]
 image: assets/images/gaming.jpg
 comments: false
+expired: true
 ---
 
 Show your programming/ designing/ artistry/ testing/ project management skills at this year's Global Game Jam.

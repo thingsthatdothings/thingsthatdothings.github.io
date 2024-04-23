@@ -4,6 +4,7 @@ title:  "[Expired] Circle K: Free product coupon for International Women's Day (
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 Send a link to your own phone number or someone else for a free snack product.  Must sign up and use phone number.

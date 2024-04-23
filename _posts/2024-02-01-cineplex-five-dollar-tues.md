@@ -4,6 +4,7 @@ title:  "[Expired] Cineplex: $5 movie tickets. $5 small popcorn. Every Tuesday i
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 Ohh, get the cool seats if you can (3D, IMAX, UltraAVX, D-BOX, 4DX, ScreenX and VIP).

@@ -4,6 +4,7 @@ title:  "[Expired] AMA: Load $150 Sobeys Gift Card and get bonus $10 GC (and 5% 
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 If you're an AMA member and go to Sobeys, take advantage of the extra gift card savings.

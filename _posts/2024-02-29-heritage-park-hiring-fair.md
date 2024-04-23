@@ -4,6 +4,7 @@ title:  "[Expired] Heritage Park: Hiring Fair on March 2, 2024"
 categories: [ other ]
 image: assets/images/lightbulb.jpg
 comments: false
+expired: true
 ---
 
 Looking for a summer job?

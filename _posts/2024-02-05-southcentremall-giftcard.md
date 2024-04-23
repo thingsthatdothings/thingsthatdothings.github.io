@@ -4,6 +4,7 @@ title:  "[Expired] Southcentre Mall: Purchase $200+ GC receive a $10, $25 or $50
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 If you're buying some big stuff at SouthCentre Mall, might as well get a free Gift Card - right?

@@ -4,6 +4,7 @@ title:  "[Expired] Canadian Tire: SPEND $100+ ON ALMOST EVERYTHING. GET $20 in C
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 In-store and online.  Activate offer in app.  One day only.

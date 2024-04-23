@@ -4,6 +4,7 @@ title:  "[Expired] London Drugs: Free $10 gift card with $50 purchase of Anycard
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 The extra $10 gift card will need to be used at London Drugs. You can use the Anycard on one of the designated vendors.  Works out to 20% off.

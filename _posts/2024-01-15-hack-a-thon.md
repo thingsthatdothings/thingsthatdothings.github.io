@@ -4,6 +4,7 @@ title:  "[Expired] YYC Hackathon: Feb 2-4 2024"
 categories: [ calgary, tech ]
 image: assets/images/tech.jpg
 comments: false
+expired: true
 ---
 
 Show your programming/ designing/ artistry/ testing/ project management skills at this year's hackathon.

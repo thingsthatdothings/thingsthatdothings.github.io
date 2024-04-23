@@ -4,6 +4,7 @@ title:  "[Expired] Burger King: Get up to 4000 Crowns by voting via the Burger K
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 Download the Burger King Canada App to start voting for your favourite BK items and earn Crowns!
