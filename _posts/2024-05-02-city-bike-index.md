@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "City of Calgary: Free Bike Index Registration"
-categories: [ city ]
+categories: [ calgary ]
 image: assets/images/lightbulb.jpg
 comments: false
 ---
@@ -12,7 +12,7 @@ Did you know your bike has a unique serial number?  If your bike gets stolen, th
 
 Register and pick up a sticker.  A visible deterrent for thieves.
 
-Purchasing a "used" bike?  Check the index database to see if it was stolen.
+Or, are you purchasing a "used" bike?  Check the index database to see if it was stolen first.
 
 
 
