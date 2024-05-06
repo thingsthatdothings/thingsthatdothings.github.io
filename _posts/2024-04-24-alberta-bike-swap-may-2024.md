@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Alberta Bike Swap: Max Bell Centre, May 4th"
+title:  "[Expired] Alberta Bike Swap: Max Bell Centre, May 4th"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 Safe place to buy/sell/donate used bikes.  Manual bikes only, non-electric.
