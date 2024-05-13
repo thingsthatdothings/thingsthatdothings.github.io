@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Eau Claire Market FAREWELL CELEBRATION - Saturday May 11th, 2024"
+title:  "[Expired] Eau Claire Market FAREWELL CELEBRATION - Saturday May 11th, 2024"
 categories: [ calgary ]
 image: assets/images/city.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Say goodbye to this "mall" with free activities and music.
