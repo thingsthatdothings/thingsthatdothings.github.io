@@ -33,7 +33,7 @@ permalink: "/things/"
     - used stuff
 12. [Calgary Surplus]({% post_url 2023-07-07-calgary-surplus %})
     - used stuff
-13. [Krazy Binz]({% post_url 2023-07-14-krazy-binz %})
+13. [Krazy Binz / Super Binz]({% post_url 2023-07-14-krazy-binz %})
     - returned and surplus stuff?
 14. [Store Memberships Perks]({% post_url 2023-08-14-store-membership-perks %})
     - PC, Scene, Ikea, Co-op, McDonald's, New York Fries, etc.
@@ -84,10 +84,10 @@ permalink: "/things/"
 6. [Kids]({% post_url 2023-09-14-kids %})
     - make and takes, play areas, etc.
 
-7. [Stampede]({% post_url 2023-12-22-stampde %})
+7. [Stampede]({% post_url 2023-12-22-stampede %})
     - plan for free pancakes and entry to the grounds
 
-8. [311]({% post_url 2023-12-22-stampde %})
+8. [311]({% post_url 2023-12-22-spot-reporter %})
     - report issues to The City anonymously
 
 9. [House Prices]({% post_url 2023-12-22-house-prices %})
@@ -105,6 +105,20 @@ permalink: "/things/"
 15. [ENMAX: Fixed Electricity and Gas Rates]({% post_url 2024-02-15-enmax-electricity-20240215 %})
 
 16. [Alberta Health Inspection Reports]({% post_url 2024-03-28-health-inspections %})
+
+17. [Annual Free sand-salt mix for Icy Sidewalks]({% post_url 2024-01-29-icy-sidewalks %})
+
+18. [City Bike Index]({% post_url 2024-05-02-city-bike-index %})
+
+19. [Annual Pathway Cleanup]({% post_url 2024-03-25-pathway-cleanup-20240325 %})
+
+20. [Annual Free Compost]({% post_url 2024-04-02-city-compost-2024 %})
+
+21. [Solar Calculator]({% post_url 2024-05-02-city-solar-calculator %})
+
+22. [City Development Map]({% post_url 2024-05-13-city-dev-map %})
+
+23. [Annual Community Cleanup]({% post_url 2024-05-19-city-community-cleanup-2024 %})
 
 
 <h2 id="other">
