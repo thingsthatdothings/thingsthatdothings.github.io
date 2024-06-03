@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Iams: Spend $50 on Iams at Walmart and get $100 off a vet visit by May 31, 2024"
+title:  "[Expired] Iams: Spend $50 on Iams at Walmart and get $100 off a vet visit by May 31, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 While supplies last.  Last year it ran out early.  Conditions apply.
 

@@ -4,6 +4,7 @@ title:  "SportCalgary: All Sport One Day (kids 6-17) - JUNE 15TH & AUGUST 17TH, 
 categories: [ calgary, other ]
 image: assets/images/workout.jpg
 comments: false
+featured: true
 ---
 
 Maybe try out fencing?  Or luge?  Many others.
