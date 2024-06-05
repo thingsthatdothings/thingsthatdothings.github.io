@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "SportCalgary: All Sport One Day (kids 6-17) - JUNE 15TH & AUGUST 17TH, 2024. Registration opens June 4 at 6PM"
+title:  "[Expired] SportCalgary: All Sport One Day (kids 6-17) - JUNE 15TH & AUGUST 17TH, 2024. Registration opens June 4 at 6PM"
 categories: [ calgary, other ]
 image: assets/images/workout.jpg
 comments: false
-featured: true
+expired: true
 ---
+
+Update: many of the good sessions are already sold out. YMMV.
 
 Maybe try out fencing?  Or luge?  Many others.
 

@@ -21,6 +21,12 @@ Need some student project work to build up your resume or scholarship applicatio
 + **[The Duke of Edinburgh's International Award](https://www.dukeofed.org/)**
     - this one is a larger commitment
 
++ **[Mayor's Youth Council](https://youthcentral.com/programs/mayoryouthcouncil/)**
++ **[Alberta Childrens Hospital Youth Council](https://www.childrenshospital.ab.ca/ways-to-help/join/youth-council/)**
++ **[Alberta Minister’s Youth Council](https://www.alberta.ca/student-engagement)**
++ **[Prime Minister's Youth Council](https://www.canada.ca/en/campaign/prime-ministers-youth-council.html)**
++ **[OCSA's Youth Council (CSA-YC) 18+](https://science.gc.ca/site/science/en/office-chief-science-advisor/science-advisory-team/ocsas-youth-council-csa-yc)**
+
 ## Spring Break Work Experience
 + **[Stem Fellowship uCalgary](https://linktr.ee/stemfellowshipucalgary)**
 
