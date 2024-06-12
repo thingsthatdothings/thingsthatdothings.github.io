@@ -18,6 +18,8 @@ Need some student project work to build up your resume or scholarship applicatio
 + **[Youreka - UofC Reasearch](https://yourekacanada.org/apply)**
 + **[YMCA Youth Leadership](https://www.ymcacalgary.org/programs-search?locations=&categories=&exclude=&ages=&days=&weeks=&keywords=youth%20leadership&no_results=0&sort=title__ASC)**
     - offered at select locations and at select times each year
+* **[City LEAD Youth Leadership](https://www.calgary.ca/parks-rec-programs/youth-leadership.html)**
+    - offered at select locations and at select times each year
 + **[The Duke of Edinburgh's International Award](https://www.dukeofed.org/)**
     - this one is a larger commitment
 
