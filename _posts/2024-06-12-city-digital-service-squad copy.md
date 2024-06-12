@@ -16,8 +16,8 @@ The Digital Service Squad primarily offers consultant-based services. They provi
         - Registered in Alberta.
         - 0 to 49 employees (can include self-employed business owners with no employees).
         - Home-based or commercial business.
-    - Ineligible businesses
-        - Non-profits, charitable trusts, and franchises.
+- Ineligible businesses
+    - Non-profits, charitable trusts, and franchises.
 
 
 [City - Digital Service Squad](https://www.calgary.ca/for-business/support/digital-service-squad.html)
