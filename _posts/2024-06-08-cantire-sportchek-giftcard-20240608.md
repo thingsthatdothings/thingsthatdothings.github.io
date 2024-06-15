@@ -4,7 +4,7 @@ title:  "CanTire: Collect $15 CT Money for every $100 spent on SportChek and Mar
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Note: Allow approx 2 weeks for the CTM to be posted to your Triangle Rewards Account.
