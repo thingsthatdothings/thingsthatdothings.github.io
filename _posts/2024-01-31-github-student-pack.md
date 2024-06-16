@@ -16,6 +16,9 @@ Good-luck!
 - [education.github.com](https://education.github.com/pack)
 
 
+Related:
+ - [Microsoft 365 for Students]({% post_url 2024-06-16-microsoft365 %})
+
 
 
 
