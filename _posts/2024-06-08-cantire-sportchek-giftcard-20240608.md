@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CanTire: Collect $15 CT Money for every $100 spent on SportChek and Mark's Gift Cards, expires June 13th, 2024"
+title:  "[Expired] CanTire: Collect $15 CT Money for every $100 spent on SportChek and Mark's Gift Cards, expires June 13th, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false

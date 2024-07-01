@@ -1,9 +1,10 @@
 # Setup
 
+0. install ruby via rubyinstaller
 1. gem install bundler jekyll
 2. jekyll -v
 3. bundle
-4. jekyll serve
+4. jekyll serve or bundle exec jekyll serves
 
 
 # Markup Notes

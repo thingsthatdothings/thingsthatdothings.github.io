@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Chapman’s $4 Annual Coupon 2024"
+title:  "[Expired] Chapman’s $4 Annual Coupon 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
+expired: true
 ---
 
 Request this high value coupon before June 30th 2024.  
