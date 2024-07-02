@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Studio Bell National Music Centre: Free Admission on July 1st, 10am-5pm"
+title:  "[Expired] Studio Bell National Music Centre: Free Admission on July 1st, 10am-5pm"
 categories: [ calgary, deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Admission to Studio Bell is free for everyone on July 1st, Canada Day, from 10:00 am to 5:00 pm.

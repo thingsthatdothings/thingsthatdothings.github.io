@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Canada Day Celebrations, July 1st 2024"
+title:  "[Expired] Canada Day Celebrations, July 1st 2024"
 categories: [ calgary, deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Free events for Canada Day.
