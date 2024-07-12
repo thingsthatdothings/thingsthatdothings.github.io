@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "7-Eleven - Free Slurpee, July 11th, 2024"
+title:  "[Expired] 7-Eleven - Free Slurpee, July 11th, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Get there early before the floors get sticky.
