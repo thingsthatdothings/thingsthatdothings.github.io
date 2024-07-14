@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "National Fry Day, July 12th, 2024"
+title:  "[Expired] National Fry Day, July 12th, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Check your fast food apps today to see if they are giving away free fries with or without purchase.
