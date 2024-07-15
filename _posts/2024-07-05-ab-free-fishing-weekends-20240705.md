@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Alberta: Free Family Fishing Weekend July 13-14, 2024"
+title:  "[Expired] Alberta: Free Family Fishing Weekend July 13-14, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Fishing regulations always apply.
