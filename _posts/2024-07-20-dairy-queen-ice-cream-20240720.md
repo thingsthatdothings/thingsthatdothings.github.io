@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Dairy Queen: 50cent Small Vanilla Cone in App, July 21st 2024"
+title:  "[Expired] Dairy Queen: 50cent Small Vanilla Cone in App, July 21st 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 National Ice Cream Day. Account for app required. One-time use.
