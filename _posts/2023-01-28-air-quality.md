@@ -18,6 +18,8 @@ These show air quality readings from all around the city:
     +  updated every 5 mins
 +   **[IQAir](https://www.iqair.com/ca/)**
     +  updated once an hour; includes visual wind direction (useful to see what may be coming your way)
++   **[Weather Underground](https://www.wunderground.com/weather/ca/calgary)**
+    +  more community based weather reporting stations
 
 
 This visually shows the location of forest fires and smoke:
