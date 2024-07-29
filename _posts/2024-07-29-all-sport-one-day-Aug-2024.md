@@ -4,7 +4,7 @@ title:  "SportCalgary: All Sport One Day (kids 6-17) - AUGUST 17TH, 2024. Regist
 categories: [ calgary, other ]
 image: assets/images/workout.jpg
 comments: false
-expired: true
+expired: false
 ---
 
 Maybe try out fencing?  Or luge?  Many others.
