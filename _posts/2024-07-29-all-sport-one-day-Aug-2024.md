@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "SportCalgary: All Sport One Day (kids 6-17) - AUGUST 17TH, 2024. Registration opens Aug 8th"
+title:  "[Expired] SportCalgary: All Sport One Day (kids 6-17) - AUGUST 17TH, 2024. Registration opens Aug 8th"
 categories: [ calgary, other ]
 image: assets/images/workout.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Maybe try out fencing?  Or luge?  Many others.
