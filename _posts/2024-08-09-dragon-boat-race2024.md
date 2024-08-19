@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Calgary Dragon Boat Race and Festival: Aug 9 to 11 2024"
+title:  "[Expired] Calgary Dragon Boat Race and Festival: Aug 9 to 11 2024"
 categories: [ calgary ]
 image: assets/images/dragon.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Boats.
