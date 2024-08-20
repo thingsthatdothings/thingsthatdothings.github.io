@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "CanTire: Spend $150 get $25 in CT MONEY (August 8, 2024)"
+title:  "[Expired] CanTire: Spend $150 get $25 in CT MONEY (August 8, 2024)"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Only on August 8, 2024.
