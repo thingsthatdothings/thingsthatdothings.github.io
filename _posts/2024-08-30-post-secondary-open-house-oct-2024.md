@@ -4,7 +4,7 @@ title:  "Post Secondary Open Houses - Oct 2004"
 categories: [ calgary ]
 image: assets/images/city.jpg
 comments: false
-expired: true
+expired: false
 ---
 
 Save the dates. Opportunity to check it out the school - maybe get some swag?
