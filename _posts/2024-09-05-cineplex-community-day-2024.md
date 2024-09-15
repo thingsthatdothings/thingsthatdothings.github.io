@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Cineplex Community Day on September 14th 2024"
+title:  "[Expired] Cineplex Community Day on September 14th 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Get tickets early before they run out.
