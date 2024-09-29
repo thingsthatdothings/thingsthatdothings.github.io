@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Southcentre Mall Roller Skating. Expires Sept 7, 2024"
+title:  "[Expired] Southcentre Mall Roller Skating. Expires Sept 7, 2024"
 categories: [ calgary ]
 image: assets/images/city.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Enter with either cash, tap, or nonperishable donations to Calgary Food Bank.  Min $5 donation?  Up to 30min.

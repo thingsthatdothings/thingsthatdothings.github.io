@@ -5,6 +5,7 @@ categories: [ calgary ]
 image: assets/images/city.jpg
 comments: false
 expired: false
+featured: true
 ---
 
 Save the dates. Opportunity to check it out the school - maybe get some swag?

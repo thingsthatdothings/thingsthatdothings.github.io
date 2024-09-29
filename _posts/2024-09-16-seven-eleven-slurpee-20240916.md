@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "7-Eleven - Large Slurpee - Name Your Price Day, September 19, 2024"
+title:  "[Expired] 7-Eleven - Large Slurpee - Name Your Price Day, September 19, 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 All proceeds go to Food Banks Canada in support of local food banks.
