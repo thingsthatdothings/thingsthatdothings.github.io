@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Telus Spark Science Centre: Free Admission on Nov 1st, 9am-4pm"
+title:  "[Expired] Telus Spark Science Centre: Free Admission on Nov 1st, 9am-4pm"
 categories: [ calgary ]
 image: assets/images/city.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 It's a Friday.  Get in line early to get in free.
