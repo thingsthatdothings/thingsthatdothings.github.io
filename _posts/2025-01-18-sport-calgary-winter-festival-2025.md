@@ -3,7 +3,7 @@ layout: post
 title:  "SportCalgary: Winter Festival FEBRUARY 17, 2025, 12 PM - 5 PM
 THE OLYMPIC OVAL"
 categories: [ calgary, other ]
-image: assets/images/workout.jpg
+image: assets/images/snowflake.jpg
 comments: false
 expired: false
 ---
