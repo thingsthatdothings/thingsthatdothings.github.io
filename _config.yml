@@ -4,7 +4,7 @@ title: "Things"
 description: "Cheap and useful things in Calgary (minus the fluff)"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /things
+baseurl: #/things
 google_analytics: 'G-7ZR3SNMFC9'
 disqus: 'demowebsite'
 #mailchimp-list: 'xxxxxxx'
