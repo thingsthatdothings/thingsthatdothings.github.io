@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Chinook Blast 2025: Jan 31 - Feb 17"
+title:  "[Expired] Chinook Blast 2025: Jan 31 - Feb 17"
 categories: [ calgary ]
 image: assets/images/snowflake.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Festivals in the winter?  That's cool.

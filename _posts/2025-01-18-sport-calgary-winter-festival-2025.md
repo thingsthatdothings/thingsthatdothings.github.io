@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "SportCalgary: Winter Festival FEBRUARY 17, 2025, 12 PM - 5 PM
-THE OLYMPIC OVAL"
+title:  "[Expired] SportCalgary: Winter Festival FEBRUARY 17, 2025, 12 PM - 5 PM THE OLYMPIC OVAL"
 categories: [ calgary, other ]
 image: assets/images/snowflake.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 Free Skating.  Free skate and helmet rentals. Free Parking.

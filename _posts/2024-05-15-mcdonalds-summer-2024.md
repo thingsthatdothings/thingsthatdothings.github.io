@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "McDonalds: In app, $1 Vanilla Cones and Fountain Drinks/Iced Coffee, Summer 2024"
+title:  "[Expired] McDonalds: In app, $1 Vanilla Cones and Fountain Drinks/Iced Coffee, Summer 2024"
 categories: [ deals ]
 image: assets/images/deals.jpg
 comments: false
-expired: false
+expired: true
 ---
 
 McD's has their summer deals on now.  Check the app.
